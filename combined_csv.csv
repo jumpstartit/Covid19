@@ -1,0 +1,2466 @@
+,Date Announced,Detected State,Num Cases
+0,01/04/2020,Andhra Pradesh,0.0
+1,01/04/2020,Assam,0.0
+2,01/04/2020,Bihar,0.0
+3,01/04/2020,Chandigarh,0.0
+4,01/04/2020,Delhi,0.0
+5,01/04/2020,Gujarat,0.0
+6,01/04/2020,Jammu and Kashmir,0.0
+7,01/04/2020,Karnataka,0.0
+8,01/04/2020,Kerala,0.0
+9,01/04/2020,Madhya Pradesh,0.0
+10,01/04/2020,Maharashtra,0.0
+11,01/04/2020,Odisha,0.0
+12,01/04/2020,Puducherry,0.0
+13,01/04/2020,Punjab,0.0
+14,01/04/2020,Rajasthan,0.0
+15,01/04/2020,Tamil Nadu,0.0
+16,01/04/2020,Telangana,0.0
+17,01/04/2020,Uttar Pradesh,0.0
+18,01/05/2020,Andhra Pradesh,144.0
+19,01/05/2020,Assam,4.0
+20,01/05/2020,Bihar,56.0
+21,01/05/2020,Chandigarh,14.0
+22,01/05/2020,Chhattisgarh,3.0
+23,01/05/2020,Delhi,298.0
+24,01/05/2020,Gujarat,471.0
+25,01/05/2020,Haryana,24.0
+26,01/05/2020,Himachal Pradesh,2.0
+27,01/05/2020,Jammu and Kashmir,56.0
+28,01/05/2020,Jharkhand,5.0
+29,01/05/2020,Karnataka,46.0
+30,01/05/2020,Kerala,9.0
+31,01/05/2020,Madhya Pradesh,140.0
+32,01/05/2020,Maharashtra,1140.0
+33,01/05/2020,Meghalaya,10.0
+34,01/05/2020,Odisha,25.0
+35,01/05/2020,Punjab,109.0
+36,01/05/2020,Rajasthan,309.0
+37,01/05/2020,Tamil Nadu,258.0
+38,01/05/2020,Telangana,28.0
+39,01/05/2020,Uttar Pradesh,222.0
+40,01/05/2020,Uttarakhand,2.0
+41,01/05/2020,West Bengal,60.0
+42,01/06/2020,Andhra Pradesh,141.0
+43,01/06/2020,Arunachal Pradesh,18.0
+44,01/06/2020,Assam,245.0
+45,01/06/2020,Bihar,359.0
+46,01/06/2020,Chandigarh,19.0
+47,01/06/2020,Chhattisgarh,56.0
+48,01/06/2020,Dadra and Nagar Haveli and Daman and Diu,1.0
+49,01/06/2020,Delhi,1308.0
+50,01/06/2020,Goa,8.0
+51,01/06/2020,Gujarat,1309.0
+52,01/06/2020,Haryana,273.0
+53,01/06/2020,Himachal Pradesh,11.0
+54,01/06/2020,Jammu and Kashmir,177.0
+55,01/06/2020,Jharkhand,66.0
+56,01/06/2020,Karnataka,288.0
+57,01/06/2020,Kerala,76.0
+58,01/06/2020,Madhya Pradesh,363.0
+59,01/06/2020,Maharashtra,3213.0
+60,01/06/2020,Manipur,12.0
+61,01/06/2020,Meghalaya,1.0
+62,01/06/2020,Odisha,275.0
+63,01/06/2020,Puducherry,9.0
+64,01/06/2020,Punjab,50.0
+65,01/06/2020,Rajasthan,455.0
+66,01/06/2020,State Unassigned,139.0
+67,01/06/2020,Tamil Nadu,1586.0
+68,01/06/2020,Telangana,163.0
+69,01/06/2020,Tripura,107.0
+70,01/06/2020,Uttar Pradesh,478.0
+71,01/06/2020,Uttarakhand,172.0
+72,01/06/2020,West Bengal,428.0
+73,02/02/2020,Kerala,0.0
+74,02/03/2020,Delhi,0.0
+75,02/03/2020,Telangana,0.0
+76,02/04/2020,Andhra Pradesh,0.0
+77,02/04/2020,Arunachal Pradesh,0.0
+78,02/04/2020,Bihar,0.0
+79,02/04/2020,Chandigarh,0.0
+80,02/04/2020,Delhi,0.0
+81,02/04/2020,Gujarat,0.0
+82,02/04/2020,Haryana,0.0
+83,02/04/2020,Himachal Pradesh,0.0
+84,02/04/2020,Jammu and Kashmir,0.0
+85,02/04/2020,Jharkhand,0.0
+86,02/04/2020,Karnataka,0.0
+87,02/04/2020,Kerala,0.0
+88,02/04/2020,Madhya Pradesh,0.0
+89,02/04/2020,Maharashtra,0.0
+90,02/04/2020,Manipur,0.0
+91,02/04/2020,Puducherry,0.0
+92,02/04/2020,Punjab,0.0
+93,02/04/2020,Rajasthan,0.0
+94,02/04/2020,Tamil Nadu,0.0
+95,02/04/2020,Telangana,0.0
+96,02/04/2020,Uttar Pradesh,0.0
+97,02/04/2020,Uttarakhand,0.0
+98,02/04/2020,West Bengal,0.0
+99,02/05/2020,Andaman and Nicobar Islands,10.0
+100,02/05/2020,Andhra Pradesh,100.0
+101,02/05/2020,Bihar,35.0
+102,02/05/2020,Chandigarh,7.0
+103,02/05/2020,Delhi,476.0
+104,02/05/2020,Gujarat,519.0
+105,02/05/2020,Haryana,21.0
+106,02/05/2020,Himachal Pradesh,3.0
+107,02/05/2020,Jammu and Kashmir,34.0
+108,02/05/2020,Jharkhand,3.0
+109,02/05/2020,Karnataka,35.0
+110,02/05/2020,Kerala,10.0
+111,02/05/2020,Ladakh,1.0
+112,02/05/2020,Madhya Pradesh,179.0
+113,02/05/2020,Maharashtra,947.0
+114,02/05/2020,Odisha,7.0
+115,02/05/2020,Puducherry,1.0
+116,02/05/2020,Punjab,191.0
+117,02/05/2020,Rajasthan,238.0
+118,02/05/2020,Tamil Nadu,261.0
+119,02/05/2020,Telangana,53.0
+120,02/05/2020,Tripura,2.0
+121,02/05/2020,Uttar Pradesh,204.0
+122,02/05/2020,Uttarakhand,4.0
+123,02/05/2020,West Bengal,146.0
+124,02/06/2020,Andhra Pradesh,155.0
+125,02/06/2020,Arunachal Pradesh,2.0
+126,02/06/2020,Assam,127.0
+127,02/06/2020,Bihar,214.0
+128,02/06/2020,Chandigarh,5.0
+129,02/06/2020,Chhattisgarh,25.0
+130,02/06/2020,Delhi,1828.0
+131,02/06/2020,Goa,13.0
+132,02/06/2020,Gujarat,1558.0
+133,02/06/2020,Haryana,312.0
+134,02/06/2020,Himachal Pradesh,23.0
+135,02/06/2020,Jammu and Kashmir,126.0
+136,02/06/2020,Jharkhand,61.0
+137,02/06/2020,Karnataka,463.0
+138,02/06/2020,Kerala,106.0
+139,02/06/2020,Ladakh,5.0
+140,02/06/2020,Madhya Pradesh,361.0
+141,02/06/2020,Maharashtra,3615.0
+142,02/06/2020,Manipur,9.0
+143,02/06/2020,Meghalaya,2.0
+144,02/06/2020,Mizoram,12.0
+145,02/06/2020,Nagaland,6.0
+146,02/06/2020,Odisha,221.0
+147,02/06/2020,Punjab,60.0
+148,02/06/2020,Rajasthan,499.0
+149,02/06/2020,State Unassigned,784.0
+150,02/06/2020,Tamil Nadu,1640.0
+151,02/06/2020,Telangana,138.0
+152,02/06/2020,Tripura,48.0
+153,02/06/2020,Uttar Pradesh,521.0
+154,02/06/2020,Uttarakhand,116.0
+155,02/06/2020,West Bengal,510.0
+156,03/02/2020,Kerala,0.0
+157,03/03/2020,Rajasthan,0.0
+158,03/04/2020,Andhra Pradesh,0.0
+159,03/04/2020,Assam,0.0
+160,03/04/2020,Bihar,0.0
+161,03/04/2020,Delhi,0.0
+162,03/04/2020,Goa,0.0
+163,03/04/2020,Gujarat,0.0
+164,03/04/2020,Haryana,0.0
+165,03/04/2020,Jammu and Kashmir,0.0
+166,03/04/2020,Karnataka,0.0
+167,03/04/2020,Kerala,0.0
+168,03/04/2020,Ladakh,0.0
+169,03/04/2020,Madhya Pradesh,0.0
+170,03/04/2020,Maharashtra,0.0
+171,03/04/2020,Odisha,0.0
+172,03/04/2020,Punjab,0.0
+173,03/04/2020,Rajasthan,0.0
+174,03/04/2020,Tamil Nadu,0.0
+175,03/04/2020,Telangana,0.0
+176,03/04/2020,Uttar Pradesh,0.0
+177,03/04/2020,Uttarakhand,0.0
+178,03/05/2020,Andaman and Nicobar Islands,6.0
+179,03/05/2020,Andhra Pradesh,105.0
+180,03/05/2020,Bihar,43.0
+181,03/05/2020,Chandigarh,4.0
+182,03/05/2020,Chhattisgarh,14.0
+183,03/05/2020,Delhi,533.0
+184,03/05/2020,Gujarat,548.0
+185,03/05/2020,Haryana,69.0
+186,03/05/2020,Himachal Pradesh,1.0
+187,03/05/2020,Jammu and Kashmir,68.0
+188,03/05/2020,Jharkhand,5.0
+189,03/05/2020,Karnataka,35.0
+190,03/05/2020,Kerala,1.0
+191,03/05/2020,Ladakh,19.0
+192,03/05/2020,Madhya Pradesh,228.0
+193,03/05/2020,Maharashtra,820.0
+194,03/05/2020,Odisha,6.0
+195,03/05/2020,Puducherry,1.0
+196,03/05/2020,Punjab,336.0
+197,03/05/2020,Rajasthan,231.0
+198,03/05/2020,Tamil Nadu,305.0
+199,03/05/2020,Telangana,67.0
+200,03/05/2020,Tripura,12.0
+201,03/05/2020,Uttar Pradesh,214.0
+202,03/05/2020,Uttarakhand,1.0
+203,03/05/2020,West Bengal,331.0
+204,03/06/2020,Andhra Pradesh,234.0
+205,03/06/2020,Arunachal Pradesh,10.0
+206,03/06/2020,Assam,347.0
+207,03/06/2020,Bihar,453.0
+208,03/06/2020,Chhattisgarh,104.0
+209,03/06/2020,Dadra and Nagar Haveli and Daman and Diu,8.0
+210,03/06/2020,Delhi,1871.0
+211,03/06/2020,Goa,47.0
+212,03/06/2020,Gujarat,833.0
+213,03/06/2020,Haryana,322.0
+214,03/06/2020,Himachal Pradesh,24.0
+215,03/06/2020,Jammu and Kashmir,194.0
+216,03/06/2020,Jharkhand,43.0
+217,03/06/2020,Karnataka,379.0
+218,03/06/2020,Kerala,106.0
+219,03/06/2020,Ladakh,10.0
+220,03/06/2020,Madhya Pradesh,399.0
+221,03/06/2020,Maharashtra,3678.0
+222,03/06/2020,Manipur,43.0
+223,03/06/2020,Meghalaya,4.0
+224,03/06/2020,Mizoram,1.0
+225,03/06/2020,Nagaland,9.0
+226,03/06/2020,Odisha,234.0
+227,03/06/2020,Puducherry,19.0
+228,03/06/2020,Punjab,47.0
+229,03/06/2020,Rajasthan,594.0
+230,03/06/2020,Sikkim,1.0
+231,03/06/2020,State Unassigned,709.0
+232,03/06/2020,Tamil Nadu,1904.0
+233,03/06/2020,Telangana,166.0
+234,03/06/2020,Tripura,151.0
+235,03/06/2020,Uttar Pradesh,223.0
+236,03/06/2020,Uttarakhand,50.0
+237,03/06/2020,West Bengal,520.0
+238,04/03/2020,Haryana,0.0
+239,04/03/2020,Rajasthan,0.0
+240,04/03/2020,Uttar Pradesh,0.0
+241,04/04/2020,Andhra Pradesh,0.0
+242,04/04/2020,Assam,0.0
+243,04/04/2020,Bihar,0.0
+244,04/04/2020,Chhattisgarh,0.0
+245,04/04/2020,Delhi,0.0
+246,04/04/2020,Goa,0.0
+247,04/04/2020,Gujarat,0.0
+248,04/04/2020,Haryana,0.0
+249,04/04/2020,Himachal Pradesh,0.0
+250,04/04/2020,Jammu and Kashmir,0.0
+251,04/04/2020,Karnataka,0.0
+252,04/04/2020,Kerala,0.0
+253,04/04/2020,Madhya Pradesh,0.0
+254,04/04/2020,Maharashtra,0.0
+255,04/04/2020,Odisha,0.0
+256,04/04/2020,Punjab,0.0
+257,04/04/2020,Rajasthan,0.0
+258,04/04/2020,Tamil Nadu,0.0
+259,04/04/2020,Telangana,0.0
+260,04/04/2020,Uttar Pradesh,0.0
+261,04/04/2020,Uttarakhand,0.0
+262,04/05/2020,Andhra Pradesh,103.0
+263,04/05/2020,Bihar,14.0
+264,04/05/2020,Chandigarh,7.0
+265,04/05/2020,Chhattisgarh,1.0
+266,04/05/2020,Delhi,418.0
+267,04/05/2020,Gujarat,558.0
+268,04/05/2020,Haryana,85.0
+269,04/05/2020,Himachal Pradesh,1.0
+270,04/05/2020,Jammu and Kashmir,41.0
+271,04/05/2020,Karnataka,67.0
+272,04/05/2020,Kerala,61.0
+273,04/05/2020,Madhya Pradesh,172.0
+274,04/05/2020,Maharashtra,1952.0
+275,04/05/2020,Odisha,7.0
+276,04/05/2020,Punjab,143.0
+277,04/05/2020,Rajasthan,263.0
+278,04/05/2020,Tamil Nadu,558.0
+279,04/05/2020,Telangana,43.0
+280,04/05/2020,Tripura,13.0
+281,04/05/2020,Uttar Pradesh,176.0
+282,04/05/2020,West Bengal,158.0
+283,04/06/2020,Andhra Pradesh,209.0
+284,04/06/2020,Arunachal Pradesh,5.0
+285,04/06/2020,Assam,331.0
+286,04/06/2020,Bihar,224.0
+287,04/06/2020,Chandigarh,9.0
+288,04/06/2020,Chhattisgarh,183.0
+289,04/06/2020,Dadra and Nagar Haveli and Daman and Diu,3.0
+290,04/06/2020,Delhi,1759.0
+291,04/06/2020,Goa,40.0
+292,04/06/2020,Gujarat,980.0
+293,04/06/2020,Haryana,362.0
+294,04/06/2020,Himachal Pradesh,53.0
+295,04/06/2020,Jammu and Kashmir,327.0
+296,04/06/2020,Jharkhand,133.0
+297,04/06/2020,Karnataka,367.0
+298,04/06/2020,Kerala,136.0
+299,04/06/2020,Ladakh,4.0
+300,04/06/2020,Madhya Pradesh,372.0
+301,04/06/2020,Maharashtra,4408.0
+302,04/06/2020,Manipur,16.0
+303,04/06/2020,Mizoram,3.0
+304,04/06/2020,Nagaland,22.0
+305,04/06/2020,Odisha,155.0
+306,04/06/2020,Puducherry,13.0
+307,04/06/2020,Punjab,53.0
+308,04/06/2020,Rajasthan,574.0
+309,04/06/2020,State Unassigned,360.0
+310,04/06/2020,Tamil Nadu,1984.0
+311,04/06/2020,Telangana,164.0
+312,04/06/2020,Tripura,24.0
+313,04/06/2020,Uttar Pradesh,564.0
+314,04/06/2020,Uttarakhand,109.0
+315,04/06/2020,West Bengal,566.0
+316,05/03/2020,Delhi,0.0
+317,05/03/2020,Uttar Pradesh,0.0
+318,05/04/2020,Andhra Pradesh,0.0
+319,05/04/2020,Delhi,0.0
+320,05/04/2020,Gujarat,0.0
+321,05/04/2020,Haryana,0.0
+322,05/04/2020,Himachal Pradesh,0.0
+323,05/04/2020,Jammu and Kashmir,0.0
+324,05/04/2020,Jharkhand,0.0
+325,05/04/2020,Karnataka,0.0
+326,05/04/2020,Kerala,0.0
+327,05/04/2020,Madhya Pradesh,0.0
+328,05/04/2020,Maharashtra,0.0
+329,05/04/2020,Odisha,0.0
+330,05/04/2020,Punjab,0.0
+331,05/04/2020,Rajasthan,0.0
+332,05/04/2020,Tamil Nadu,0.0
+333,05/04/2020,Telangana,0.0
+334,05/04/2020,Uttar Pradesh,0.0
+335,05/04/2020,Uttarakhand,0.0
+336,05/04/2020,West Bengal,0.0
+337,05/05/2020,Andhra Pradesh,133.0
+338,05/05/2020,Assam,2.0
+339,05/05/2020,Bihar,38.0
+340,05/05/2020,Chandigarh,17.0
+341,05/05/2020,Chhattisgarh,1.0
+342,05/05/2020,Dadra and Nagar Haveli and Daman and Diu,1.0
+343,05/05/2020,Delhi,243.0
+344,05/05/2020,Gujarat,676.0
+345,05/05/2020,Haryana,33.0
+346,05/05/2020,Himachal Pradesh,2.0
+347,05/05/2020,Jammu and Kashmir,32.0
+348,05/05/2020,Jharkhand,16.0
+349,05/05/2020,Karnataka,34.0
+350,05/05/2020,Kerala,3.0
+351,05/05/2020,Madhya Pradesh,262.0
+352,05/05/2020,Maharashtra,1372.0
+353,05/05/2020,Mizoram,1.0
+354,05/05/2020,Odisha,9.0
+355,05/05/2020,Punjab,226.0
+356,05/05/2020,Rajasthan,196.0
+357,05/05/2020,Tamil Nadu,586.0
+358,05/05/2020,Telangana,54.0
+359,05/05/2020,Tripura,13.0
+360,05/05/2020,Uttar Pradesh,305.0
+361,05/05/2020,Uttarakhand,1.0
+362,05/05/2020,West Bengal,138.0
+363,05/06/2020,Andhra Pradesh,176.0
+364,05/06/2020,Arunachal Pradesh,4.0
+365,05/06/2020,Assam,178.0
+366,05/06/2020,Bihar,260.0
+367,05/06/2020,Chandigarh,58.0
+368,05/06/2020,Chhattisgarh,115.0
+369,05/06/2020,Delhi,1796.0
+370,05/06/2020,Goa,38.0
+371,05/06/2020,Gujarat,889.0
+372,05/06/2020,Haryana,402.0
+373,05/06/2020,Himachal Pradesh,20.0
+374,05/06/2020,Jammu and Kashmir,221.0
+375,05/06/2020,Jharkhand,165.0
+376,05/06/2020,Karnataka,598.0
+377,05/06/2020,Kerala,133.0
+378,05/06/2020,Ladakh,3.0
+379,05/06/2020,Madhya Pradesh,482.0
+380,05/06/2020,Maharashtra,4041.0
+381,05/06/2020,Manipur,8.0
+382,05/06/2020,Mizoram,7.0
+383,05/06/2020,Nagaland,27.0
+384,05/06/2020,Odisha,254.0
+385,05/06/2020,Puducherry,11.0
+386,05/06/2020,Punjab,73.0
+387,05/06/2020,Rajasthan,482.0
+388,05/06/2020,Sikkim,1.0
+389,05/06/2020,State Unassigned,127.0
+390,05/06/2020,Tamil Nadu,2311.0
+391,05/06/2020,Telangana,191.0
+392,05/06/2020,Tripura,48.0
+393,05/06/2020,Uttar Pradesh,717.0
+394,05/06/2020,Uttarakhand,110.0
+395,05/06/2020,West Bengal,582.0
+396,06/03/2020,Delhi,0.0
+397,06/04/2020,Andhra Pradesh,0.0
+398,06/04/2020,Delhi,0.0
+399,06/04/2020,Gujarat,0.0
+400,06/04/2020,Haryana,0.0
+401,06/04/2020,Himachal Pradesh,0.0
+402,06/04/2020,Jammu and Kashmir,0.0
+403,06/04/2020,Jharkhand,0.0
+404,06/04/2020,Karnataka,0.0
+405,06/04/2020,Kerala,0.0
+406,06/04/2020,Madhya Pradesh,0.0
+407,06/04/2020,Maharashtra,0.0
+408,06/04/2020,Odisha,0.0
+409,06/04/2020,Punjab,0.0
+410,06/04/2020,Rajasthan,0.0
+411,06/04/2020,Tamil Nadu,0.0
+412,06/04/2020,Telangana,0.0
+413,06/04/2020,Tripura,0.0
+414,06/04/2020,Uttar Pradesh,0.0
+415,06/04/2020,Uttarakhand,0.0
+416,06/05/2020,Andhra Pradesh,202.0
+417,06/05/2020,Assam,3.0
+418,06/05/2020,Bihar,7.0
+419,06/05/2020,Chandigarh,5.0
+420,06/05/2020,Delhi,503.0
+421,06/05/2020,Gujarat,527.0
+422,06/05/2020,Haryana,51.0
+423,06/05/2020,Himachal Pradesh,1.0
+424,06/05/2020,Jammu and Kashmir,36.0
+425,06/05/2020,Jharkhand,6.0
+426,06/05/2020,Karnataka,43.0
+427,06/05/2020,Kerala,7.0
+428,06/05/2020,Madhya Pradesh,197.0
+429,06/05/2020,Maharashtra,1542.0
+430,06/05/2020,Odisha,29.0
+431,06/05/2020,Punjab,79.0
+432,06/05/2020,Rajasthan,377.0
+433,06/05/2020,Tamil Nadu,804.0
+434,06/05/2020,Telangana,31.0
+435,06/05/2020,Tripura,22.0
+436,06/05/2020,Uttar Pradesh,265.0
+437,06/05/2020,West Bengal,117.0
+438,06/06/2020,Andhra Pradesh,285.0
+439,06/06/2020,Arunachal Pradesh,2.0
+440,06/06/2020,Assam,309.0
+441,06/06/2020,Bihar,298.0
+442,06/06/2020,Chandigarh,3.0
+443,06/06/2020,Chhattisgarh,90.0
+444,06/06/2020,Dadra and Nagar Haveli and Daman and Diu,5.0
+445,06/06/2020,Delhi,1722.0
+446,06/06/2020,Goa,71.0
+447,06/06/2020,Gujarat,840.0
+448,06/06/2020,Haryana,426.0
+449,06/06/2020,Himachal Pradesh,12.0
+450,06/06/2020,Jammu and Kashmir,186.0
+451,06/06/2020,Jharkhand,144.0
+452,06/06/2020,Karnataka,660.0
+453,06/06/2020,Kerala,160.0
+454,06/06/2020,Ladakh,4.0
+455,06/06/2020,Madhya Pradesh,477.0
+456,06/06/2020,Maharashtra,5102.0
+457,06/06/2020,Manipur,39.0
+458,06/06/2020,Nagaland,8.0
+459,06/06/2020,Odisha,285.0
+460,06/06/2020,Puducherry,8.0
+461,06/06/2020,Punjab,79.0
+462,06/06/2020,Rajasthan,408.0
+463,06/06/2020,Sikkim,4.0
+464,06/06/2020,State Unassigned,582.0
+465,06/06/2020,Tamil Nadu,2110.0
+466,06/06/2020,Telangana,299.0
+467,06/06/2020,Tripura,55.0
+468,06/06/2020,Uttar Pradesh,641.0
+469,06/06/2020,Uttarakhand,167.0
+470,06/06/2020,West Bengal,659.0
+471,07/03/2020,Ladakh,0.0
+472,07/03/2020,Tamil Nadu,0.0
+473,07/04/2020,Andhra Pradesh,0.0
+474,07/04/2020,Assam,0.0
+475,07/04/2020,Bihar,0.0
+476,07/04/2020,Delhi,0.0
+477,07/04/2020,Gujarat,0.0
+478,07/04/2020,Haryana,0.0
+479,07/04/2020,Himachal Pradesh,0.0
+480,07/04/2020,Jammu and Kashmir,0.0
+481,07/04/2020,Karnataka,0.0
+482,07/04/2020,Kerala,0.0
+483,07/04/2020,Madhya Pradesh,0.0
+484,07/04/2020,Maharashtra,0.0
+485,07/04/2020,Odisha,0.0
+486,07/04/2020,Punjab,0.0
+487,07/04/2020,Rajasthan,0.0
+488,07/04/2020,Tamil Nadu,0.0
+489,07/04/2020,Telangana,0.0
+490,07/04/2020,Uttar Pradesh,0.0
+491,07/04/2020,West Bengal,0.0
+492,07/05/2020,Andaman and Nicobar Islands,1.0
+493,07/05/2020,Andhra Pradesh,109.0
+494,07/05/2020,Assam,8.0
+495,07/05/2020,Bihar,69.0
+496,07/05/2020,Chandigarh,11.0
+497,07/05/2020,Delhi,838.0
+498,07/05/2020,Gujarat,626.0
+499,07/05/2020,Haryana,31.0
+500,07/05/2020,Himachal Pradesh,3.0
+501,07/05/2020,Jammu and Kashmir,32.0
+502,07/05/2020,Jharkhand,9.0
+503,07/05/2020,Karnataka,25.0
+504,07/05/2020,Kerala,5.0
+505,07/05/2020,Madhya Pradesh,254.0
+506,07/05/2020,Maharashtra,1466.0
+507,07/05/2020,Odisha,15.0
+508,07/05/2020,Punjab,133.0
+509,07/05/2020,Rajasthan,266.0
+510,07/05/2020,Tamil Nadu,613.0
+511,07/05/2020,Telangana,60.0
+512,07/05/2020,Tripura,24.0
+513,07/05/2020,Uttar Pradesh,195.0
+514,07/05/2020,West Bengal,130.0
+515,07/06/2020,Andhra Pradesh,230.0
+516,07/06/2020,Arunachal Pradesh,3.0
+517,07/06/2020,Assam,256.0
+518,07/06/2020,Bihar,347.0
+519,07/06/2020,Chandigarh,3.0
+520,07/06/2020,Chhattisgarh,157.0
+521,07/06/2020,Dadra and Nagar Haveli and Daman and Diu,2.0
+522,07/06/2020,Delhi,1668.0
+523,07/06/2020,Goa,33.0
+524,07/06/2020,Gujarat,829.0
+525,07/06/2020,Haryana,694.0
+526,07/06/2020,Himachal Pradesh,39.0
+527,07/06/2020,Jammu and Kashmir,712.0
+528,07/06/2020,Jharkhand,92.0
+529,07/06/2020,Karnataka,400.0
+530,07/06/2020,Kerala,148.0
+531,07/06/2020,Ladakh,4.0
+532,07/06/2020,Madhya Pradesh,409.0
+533,07/06/2020,Maharashtra,5022.0
+534,07/06/2020,Manipur,15.0
+535,07/06/2020,Meghalaya,3.0
+536,07/06/2020,Mizoram,10.0
+537,07/06/2020,Nagaland,9.0
+538,07/06/2020,Odisha,254.0
+539,07/06/2020,Puducherry,13.0
+540,07/06/2020,Punjab,108.0
+541,07/06/2020,Rajasthan,524.0
+542,07/06/2020,State Unassigned,418.0
+543,07/06/2020,Tamil Nadu,2137.0
+544,07/06/2020,Telangana,200.0
+545,07/06/2020,Tripura,72.0
+546,07/06/2020,Uttar Pradesh,717.0
+547,07/06/2020,Uttarakhand,160.0
+548,07/06/2020,West Bengal,646.0
+549,08/03/2020,Kerala,0.0
+550,08/04/2020,Andaman and Nicobar Islands,0.0
+551,08/04/2020,Andhra Pradesh,0.0
+552,08/04/2020,Bihar,0.0
+553,08/04/2020,Delhi,0.0
+554,08/04/2020,Gujarat,0.0
+555,08/04/2020,Haryana,0.0
+556,08/04/2020,Jammu and Kashmir,0.0
+557,08/04/2020,Karnataka,0.0
+558,08/04/2020,Kerala,0.0
+559,08/04/2020,Madhya Pradesh,0.0
+560,08/04/2020,Maharashtra,0.0
+561,08/04/2020,Punjab,0.0
+562,08/04/2020,Rajasthan,0.0
+563,08/04/2020,Tamil Nadu,0.0
+564,08/04/2020,Telangana,0.0
+565,08/04/2020,Uttar Pradesh,0.0
+566,08/04/2020,Uttarakhand,0.0
+567,08/04/2020,West Bengal,0.0
+568,08/05/2020,Andhra Pradesh,119.0
+569,08/05/2020,Assam,7.0
+570,08/05/2020,Bihar,78.0
+571,08/05/2020,Chandigarh,12.0
+572,08/05/2020,Chhattisgarh,2.0
+573,08/05/2020,Delhi,429.0
+574,08/05/2020,Gujarat,577.0
+575,08/05/2020,Haryana,42.0
+576,08/05/2020,Himachal Pradesh,4.0
+577,08/05/2020,Jammu and Kashmir,59.0
+578,08/05/2020,Jharkhand,22.0
+579,08/05/2020,Karnataka,58.0
+580,08/05/2020,Kerala,11.0
+581,08/05/2020,Ladakh,1.0
+582,08/05/2020,Madhya Pradesh,214.0
+583,08/05/2020,Maharashtra,1295.0
+584,08/05/2020,Odisha,52.0
+585,08/05/2020,Puducherry,3.0
+586,08/05/2020,Punjab,91.0
+587,08/05/2020,Rajasthan,278.0
+588,08/05/2020,Tamil Nadu,661.0
+589,08/05/2020,Telangana,44.0
+590,08/05/2020,Tripura,30.0
+591,08/05/2020,Uttar Pradesh,284.0
+592,08/05/2020,Uttarakhand,8.0
+593,08/05/2020,West Bengal,166.0
+594,08/06/2020,Andhra Pradesh,196.0
+595,08/06/2020,Arunachal Pradesh,6.0
+596,08/06/2020,Assam,302.0
+597,08/06/2020,Bihar,315.0
+598,08/06/2020,Chandigarh,17.0
+599,08/06/2020,Chhattisgarh,193.0
+600,08/06/2020,Dadra and Nagar Haveli and Daman and Diu,2.0
+601,08/06/2020,Delhi,1427.0
+602,08/06/2020,Goa,32.0
+603,08/06/2020,Gujarat,829.0
+604,08/06/2020,Haryana,643.0
+605,08/06/2020,Himachal Pradesh,15.0
+606,08/06/2020,Jammu and Kashmir,310.0
+607,08/06/2020,Jharkhand,216.0
+608,08/06/2020,Karnataka,620.0
+609,08/06/2020,Kerala,103.0
+610,08/06/2020,Madhya Pradesh,444.0
+611,08/06/2020,Maharashtra,4324.0
+612,08/06/2020,Manipur,106.0
+613,08/06/2020,Meghalaya,3.0
+614,08/06/2020,Mizoram,8.0
+615,08/06/2020,Nagaland,6.0
+616,08/06/2020,Odisha,237.0
+617,08/06/2020,Puducherry,13.0
+618,08/06/2020,Punjab,79.0
+619,08/06/2020,Rajasthan,646.0
+620,08/06/2020,State Unassigned,-773.0
+621,08/06/2020,Tamil Nadu,2107.0
+622,08/06/2020,Telangana,97.0
+623,08/06/2020,Tripura,38.0
+624,08/06/2020,Uttar Pradesh,578.0
+625,08/06/2020,Uttarakhand,244.0
+626,08/06/2020,West Bengal,597.0
+627,09/03/2020,Delhi,0.0
+628,09/03/2020,Jammu and Kashmir,0.0
+629,09/03/2020,Karnataka,0.0
+630,09/03/2020,Kerala,0.0
+631,09/03/2020,Maharashtra,0.0
+632,09/03/2020,Punjab,0.0
+633,09/03/2020,Uttar Pradesh,0.0
+634,09/04/2020,Andhra Pradesh,0.0
+635,09/04/2020,Assam,0.0
+636,09/04/2020,Bihar,0.0
+637,09/04/2020,Chhattisgarh,0.0
+638,09/04/2020,Delhi,0.0
+639,09/04/2020,Gujarat,0.0
+640,09/04/2020,Haryana,0.0
+641,09/04/2020,Himachal Pradesh,0.0
+642,09/04/2020,Jammu and Kashmir,0.0
+643,09/04/2020,Jharkhand,0.0
+644,09/04/2020,Karnataka,0.0
+645,09/04/2020,Kerala,0.0
+646,09/04/2020,Madhya Pradesh,0.0
+647,09/04/2020,Maharashtra,0.0
+648,09/04/2020,Odisha,0.0
+649,09/04/2020,Punjab,0.0
+650,09/04/2020,Rajasthan,0.0
+651,09/04/2020,Tamil Nadu,0.0
+652,09/04/2020,Telangana,0.0
+653,09/04/2020,Uttar Pradesh,0.0
+654,09/04/2020,West Bengal,0.0
+655,09/05/2020,Andhra Pradesh,91.0
+656,09/05/2020,Assam,2.0
+657,09/05/2020,Bihar,83.0
+658,09/05/2020,Chandigarh,26.0
+659,09/05/2020,Chhattisgarh,5.0
+660,09/05/2020,Delhi,224.0
+661,09/05/2020,Gujarat,636.0
+662,09/05/2020,Haryana,40.0
+663,09/05/2020,Himachal Pradesh,3.0
+664,09/05/2020,Jammu and Kashmir,17.0
+665,09/05/2020,Jharkhand,39.0
+666,09/05/2020,Karnataka,51.0
+667,09/05/2020,Kerala,3.0
+668,09/05/2020,Madhya Pradesh,258.0
+669,09/05/2020,Maharashtra,1543.0
+670,09/05/2020,Meghalaya,1.0
+671,09/05/2020,Odisha,88.0
+672,09/05/2020,Punjab,38.0
+673,09/05/2020,Rajasthan,283.0
+674,09/05/2020,Tamil Nadu,749.0
+675,09/05/2020,Telangana,56.0
+676,09/05/2020,Tripura,17.0
+677,09/05/2020,Uttar Pradesh,279.0
+678,09/05/2020,Uttarakhand,5.0
+679,09/05/2020,West Bengal,168.0
+680,09/06/2020,Andaman and Nicobar Islands,1.0
+681,09/06/2020,Andhra Pradesh,119.0
+682,09/06/2020,Arunachal Pradesh,1.0
+683,09/06/2020,Assam,528.0
+684,09/06/2020,Bihar,438.0
+685,09/06/2020,Chandigarh,6.0
+686,09/06/2020,Chhattisgarh,27.0
+687,09/06/2020,Dadra and Nagar Haveli and Daman and Diu,2.0
+688,09/06/2020,Delhi,1901.0
+689,09/06/2020,Goa,29.0
+690,09/06/2020,Gujarat,912.0
+691,09/06/2020,Haryana,468.0
+692,09/06/2020,Himachal Pradesh,30.0
+693,09/06/2020,Jammu and Kashmir,246.0
+694,09/06/2020,Jharkhand,167.0
+695,09/06/2020,Karnataka,327.0
+696,09/06/2020,Kerala,125.0
+697,09/06/2020,Ladakh,5.0
+698,09/06/2020,Madhya Pradesh,410.0
+699,09/06/2020,Maharashtra,4042.0
+700,09/06/2020,Manipur,38.0
+701,09/06/2020,Meghalaya,4.0
+702,09/06/2020,Mizoram,46.0
+703,09/06/2020,Nagaland,7.0
+704,09/06/2020,Odisha,286.0
+705,09/06/2020,Puducherry,6.0
+706,09/06/2020,Punjab,97.0
+707,09/06/2020,Rajasthan,589.0
+708,09/06/2020,Sikkim,9.0
+709,09/06/2020,State Unassigned,874.0
+710,09/06/2020,Tamil Nadu,2501.0
+711,09/06/2020,Telangana,184.0
+712,09/06/2020,Tripura,27.0
+713,09/06/2020,Uttar Pradesh,731.0
+714,09/06/2020,Uttarakhand,167.0
+715,09/06/2020,West Bengal,537.0
+716,10/03/2020,Karnataka,0.0
+717,10/03/2020,Kerala,0.0
+718,10/03/2020,Maharashtra,0.0
+719,10/03/2020,Rajasthan,0.0
+720,10/04/2020,Andhra Pradesh,0.0
+721,10/04/2020,Bihar,0.0
+722,10/04/2020,Chandigarh,0.0
+723,10/04/2020,Delhi,0.0
+724,10/04/2020,Gujarat,0.0
+725,10/04/2020,Haryana,0.0
+726,10/04/2020,Jammu and Kashmir,0.0
+727,10/04/2020,Jharkhand,0.0
+728,10/04/2020,Karnataka,0.0
+729,10/04/2020,Kerala,0.0
+730,10/04/2020,Ladakh,0.0
+731,10/04/2020,Madhya Pradesh,0.0
+732,10/04/2020,Maharashtra,0.0
+733,10/04/2020,Odisha,0.0
+734,10/04/2020,Puducherry,0.0
+735,10/04/2020,Punjab,0.0
+736,10/04/2020,Rajasthan,0.0
+737,10/04/2020,Tamil Nadu,0.0
+738,10/04/2020,Telangana,0.0
+739,10/04/2020,Tripura,0.0
+740,10/04/2020,Uttar Pradesh,0.0
+741,10/04/2020,West Bengal,0.0
+742,10/05/2020,Andhra Pradesh,89.0
+743,10/05/2020,Assam,1.0
+744,10/05/2020,Bihar,133.0
+745,10/05/2020,Chandigarh,5.0
+746,10/05/2020,Chhattisgarh,6.0
+747,10/05/2020,Delhi,435.0
+748,10/05/2020,Gujarat,873.0
+749,10/05/2020,Haryana,39.0
+750,10/05/2020,Himachal Pradesh,6.0
+751,10/05/2020,Jammu and Kashmir,40.0
+752,10/05/2020,Jharkhand,1.0
+753,10/05/2020,Karnataka,91.0
+754,10/05/2020,Kerala,11.0
+755,10/05/2020,Ladakh,3.0
+756,10/05/2020,Madhya Pradesh,357.0
+757,10/05/2020,Maharashtra,2395.0
+758,10/05/2020,Odisha,25.0
+759,10/05/2020,Puducherry,3.0
+760,10/05/2020,Punjab,70.0
+761,10/05/2020,Rajasthan,187.0
+762,10/05/2020,Tamil Nadu,807.0
+763,10/05/2020,Telangana,33.0
+764,10/05/2020,Tripura,16.0
+765,10/05/2020,Uttar Pradesh,253.0
+766,10/05/2020,Uttarakhand,1.0
+767,10/05/2020,West Bengal,212.0
+768,10/06/2020,Andaman and Nicobar Islands,1.0
+769,10/06/2020,Andhra Pradesh,476.0
+770,10/06/2020,Arunachal Pradesh,6.0
+771,10/06/2020,Assam,388.0
+772,10/06/2020,Bihar,408.0
+773,10/06/2020,Chandigarh,6.0
+774,10/06/2020,Chhattisgarh,56.0
+775,10/06/2020,Dadra and Nagar Haveli and Daman and Diu,5.0
+776,10/06/2020,Delhi,1964.0
+777,10/06/2020,Goa,28.0
+778,10/06/2020,Gujarat,914.0
+779,10/06/2020,Haryana,758.0
+780,10/06/2020,Himachal Pradesh,28.0
+781,10/06/2020,Jammu and Kashmir,329.0
+782,10/06/2020,Jharkhand,168.0
+783,10/06/2020,Karnataka,380.0
+784,10/06/2020,Kerala,123.0
+785,10/06/2020,Ladakh,7.0
+786,10/06/2020,Madhya Pradesh,370.0
+787,10/06/2020,Maharashtra,5280.0
+788,10/06/2020,Manipur,7.0
+789,10/06/2020,Meghalaya,1.0
+790,10/06/2020,Mizoram,5.0
+791,10/06/2020,Nagaland,13.0
+792,10/06/2020,Odisha,259.0
+793,10/06/2020,Puducherry,17.0
+794,10/06/2020,Punjab,151.0
+795,10/06/2020,Rajasthan,600.0
+796,10/06/2020,State Unassigned,516.0
+797,10/06/2020,Tamil Nadu,2954.0
+798,10/06/2020,Telangana,274.0
+799,10/06/2020,Tripura,78.0
+800,10/06/2020,Uttar Pradesh,597.0
+801,10/06/2020,Uttarakhand,103.0
+802,10/06/2020,West Bengal,519.0
+803,11/03/2020,Delhi,0.0
+804,11/03/2020,Ladakh,0.0
+805,11/03/2020,Maharashtra,0.0
+806,11/04/2020,Andhra Pradesh,0.0
+807,11/04/2020,Bihar,0.0
+808,11/04/2020,Chhattisgarh,0.0
+809,11/04/2020,Delhi,0.0
+810,11/04/2020,Gujarat,0.0
+811,11/04/2020,Haryana,0.0
+812,11/04/2020,Himachal Pradesh,0.0
+813,11/04/2020,Jammu and Kashmir,0.0
+814,11/04/2020,Jharkhand,0.0
+815,11/04/2020,Karnataka,0.0
+816,11/04/2020,Kerala,0.0
+817,11/04/2020,Madhya Pradesh,0.0
+818,11/04/2020,Maharashtra,0.0
+819,11/04/2020,Odisha,0.0
+820,11/04/2020,Punjab,0.0
+821,11/04/2020,Rajasthan,0.0
+822,11/04/2020,Tamil Nadu,0.0
+823,11/04/2020,Telangana,0.0
+824,11/04/2020,Uttar Pradesh,0.0
+825,11/04/2020,West Bengal,0.0
+826,11/05/2020,Andhra Pradesh,111.0
+827,11/05/2020,Assam,7.0
+828,11/05/2020,Bihar,65.0
+829,11/05/2020,Chandigarh,12.0
+830,11/05/2020,Chhattisgarh,4.0
+831,11/05/2020,Delhi,370.0
+832,11/05/2020,Gujarat,602.0
+833,11/05/2020,Haryana,65.0
+834,11/05/2020,Himachal Pradesh,1.0
+835,11/05/2020,Jammu and Kashmir,63.0
+836,11/05/2020,Jharkhand,4.0
+837,11/05/2020,Karnataka,18.0
+838,11/05/2020,Kerala,7.0
+839,11/05/2020,Ladakh,1.0
+840,11/05/2020,Madhya Pradesh,248.0
+841,11/05/2020,Maharashtra,1853.0
+842,11/05/2020,Odisha,55.0
+843,11/05/2020,Punjab,56.0
+844,11/05/2020,Rajasthan,262.0
+845,11/05/2020,Tamil Nadu,896.0
+846,11/05/2020,Telangana,129.0
+847,11/05/2020,Uttar Pradesh,212.0
+848,11/05/2020,West Bengal,211.0
+849,11/06/2020,Andaman and Nicobar Islands,3.0
+850,11/06/2020,Andhra Pradesh,283.0
+851,11/06/2020,Arunachal Pradesh,6.0
+852,11/06/2020,Assam,329.0
+853,11/06/2020,Bihar,402.0
+854,11/06/2020,Chandigarh,8.0
+855,11/06/2020,Chhattisgarh,206.0
+856,11/06/2020,Dadra and Nagar Haveli and Daman and Diu,1.0
+857,11/06/2020,Delhi,2464.0
+858,11/06/2020,Goa,30.0
+859,11/06/2020,Gujarat,917.0
+860,11/06/2020,Haryana,474.0
+861,11/06/2020,Himachal Pradesh,52.0
+862,11/06/2020,Jammu and Kashmir,217.0
+863,11/06/2020,Jharkhand,86.0
+864,11/06/2020,Karnataka,321.0
+865,11/06/2020,Kerala,146.0
+866,11/06/2020,Ladakh,24.0
+867,11/06/2020,Madhya Pradesh,346.0
+868,11/06/2020,Maharashtra,5321.0
+869,11/06/2020,Manipur,64.0
+870,11/06/2020,Meghalaya,5.0
+871,11/06/2020,Mizoram,9.0
+872,11/06/2020,Nagaland,9.0
+873,11/06/2020,Odisha,209.0
+874,11/06/2020,Puducherry,22.0
+875,11/06/2020,Punjab,113.0
+876,11/06/2020,Rajasthan,450.0
+877,11/06/2020,State Unassigned,-296.0
+878,11/06/2020,Tamil Nadu,3270.0
+879,11/06/2020,Telangana,394.0
+880,11/06/2020,Tripura,64.0
+881,11/06/2020,Uttar Pradesh,823.0
+882,11/06/2020,Uttarakhand,149.0
+883,11/06/2020,West Bengal,659.0
+884,12/03/2020,Andhra Pradesh,0.0
+885,12/03/2020,Delhi,0.0
+886,12/03/2020,Karnataka,0.0
+887,12/03/2020,Kerala,0.0
+888,12/03/2020,Maharashtra,0.0
+889,12/03/2020,Uttar Pradesh,0.0
+890,12/04/2020,Andhra Pradesh,0.0
+891,12/04/2020,Assam,0.0
+892,12/04/2020,Chandigarh,0.0
+893,12/04/2020,Chhattisgarh,0.0
+894,12/04/2020,Delhi,0.0
+895,12/04/2020,Gujarat,0.0
+896,12/04/2020,Haryana,0.0
+897,12/04/2020,Jammu and Kashmir,0.0
+898,12/04/2020,Jharkhand,0.0
+899,12/04/2020,Karnataka,0.0
+900,12/04/2020,Kerala,0.0
+901,12/04/2020,Madhya Pradesh,0.0
+902,12/04/2020,Maharashtra,0.0
+903,12/04/2020,Punjab,0.0
+904,12/04/2020,Rajasthan,0.0
+905,12/04/2020,Tamil Nadu,0.0
+906,12/04/2020,Telangana,0.0
+907,12/04/2020,Uttar Pradesh,0.0
+908,12/04/2020,West Bengal,0.0
+909,12/05/2020,Andhra Pradesh,130.0
+910,12/05/2020,Bihar,135.0
+911,12/05/2020,Chandigarh,8.0
+912,12/05/2020,Chhattisgarh,1.0
+913,12/05/2020,Dadra and Nagar Haveli and Daman and Diu,1.0
+914,12/05/2020,Delhi,802.0
+915,12/05/2020,Gujarat,852.0
+916,12/05/2020,Haryana,55.0
+917,12/05/2020,Himachal Pradesh,8.0
+918,12/05/2020,Jammu and Kashmir,83.0
+919,12/05/2020,Jharkhand,12.0
+920,12/05/2020,Karnataka,70.0
+921,12/05/2020,Kerala,5.0
+922,12/05/2020,Madhya Pradesh,318.0
+923,12/05/2020,Maharashtra,1418.0
+924,12/05/2020,Odisha,53.0
+925,12/05/2020,Punjab,41.0
+926,12/05/2020,Rajasthan,272.0
+927,12/05/2020,Tamil Nadu,807.0
+928,12/05/2020,Telangana,74.0
+929,12/05/2020,Tripura,2.0
+930,12/05/2020,Uttar Pradesh,208.0
+931,12/05/2020,Uttarakhand,1.0
+932,12/05/2020,West Bengal,231.0
+933,12/06/2020,Andhra Pradesh,330.0
+934,12/06/2020,Arunachal Pradesh,19.0
+935,12/06/2020,Assam,417.0
+936,12/06/2020,Bihar,379.0
+937,12/06/2020,Chandigarh,15.0
+938,12/06/2020,Chhattisgarh,170.0
+939,12/06/2020,Delhi,2933.0
+940,12/06/2020,Goa,48.0
+941,12/06/2020,Gujarat,918.0
+942,12/06/2020,Haryana,586.0
+943,12/06/2020,Himachal Pradesh,33.0
+944,12/06/2020,Jammu and Kashmir,423.0
+945,12/06/2020,Jharkhand,112.0
+946,12/06/2020,Karnataka,742.0
+947,12/06/2020,Kerala,111.0
+948,12/06/2020,Ladakh,108.0
+949,12/06/2020,Madhya Pradesh,370.0
+950,12/06/2020,Maharashtra,5338.0
+951,12/06/2020,Manipur,19.0
+952,12/06/2020,Meghalaya,4.0
+953,12/06/2020,Mizoram,2.0
+954,12/06/2020,Nagaland,54.0
+955,12/06/2020,Odisha,233.0
+956,12/06/2020,Puducherry,16.0
+957,12/06/2020,Punjab,126.0
+958,12/06/2020,Rajasthan,473.0
+959,12/06/2020,Sikkim,50.0
+960,12/06/2020,State Unassigned,-616.0
+961,12/06/2020,Tamil Nadu,3342.0
+962,12/06/2020,Telangana,458.0
+963,12/06/2020,Tripura,41.0
+964,12/06/2020,Uttar Pradesh,865.0
+965,12/06/2020,Uttarakhand,135.0
+966,12/06/2020,West Bengal,703.0
+967,13/03/2020,Delhi,0.0
+968,13/03/2020,Jammu and Kashmir,0.0
+969,13/03/2020,Karnataka,0.0
+970,13/03/2020,Kerala,0.0
+971,13/03/2020,Maharashtra,0.0
+972,13/03/2020,Uttar Pradesh,0.0
+973,13/04/2020,Andhra Pradesh,0.0
+974,13/04/2020,Assam,0.0
+975,13/04/2020,Bihar,0.0
+976,13/04/2020,Delhi,0.0
+977,13/04/2020,Gujarat,0.0
+978,13/04/2020,Haryana,0.0
+979,13/04/2020,Jammu and Kashmir,0.0
+980,13/04/2020,Jharkhand,0.0
+981,13/04/2020,Karnataka,0.0
+982,13/04/2020,Kerala,0.0
+983,13/04/2020,Ladakh,0.0
+984,13/04/2020,Madhya Pradesh,0.0
+985,13/04/2020,Maharashtra,0.0
+986,13/04/2020,Meghalaya,0.0
+987,13/04/2020,Odisha,0.0
+988,13/04/2020,Punjab,0.0
+989,13/04/2020,Rajasthan,0.0
+990,13/04/2020,Tamil Nadu,0.0
+991,13/04/2020,Telangana,0.0
+992,13/04/2020,Uttar Pradesh,0.0
+993,13/04/2020,West Bengal,0.0
+994,13/05/2020,Andhra Pradesh,135.0
+995,13/05/2020,Assam,15.0
+996,13/05/2020,Bihar,93.0
+997,13/05/2020,Chandigarh,4.0
+998,13/05/2020,Chhattisgarh,1.0
+999,13/05/2020,Delhi,725.0
+1000,13/05/2020,Gujarat,709.0
+1001,13/05/2020,Haryana,89.0
+1002,13/05/2020,Himachal Pradesh,1.0
+1003,13/05/2020,Jammu and Kashmir,49.0
+1004,13/05/2020,Jharkhand,13.0
+1005,13/05/2020,Karnataka,54.0
+1006,13/05/2020,Kerala,11.0
+1007,13/05/2020,Ladakh,1.0
+1008,13/05/2020,Madhya Pradesh,338.0
+1009,13/05/2020,Maharashtra,1971.0
+1010,13/05/2020,Meghalaya,1.0
+1011,13/05/2020,Odisha,128.0
+1012,13/05/2020,Puducherry,1.0
+1013,13/05/2020,Punjab,39.0
+1014,13/05/2020,Rajasthan,325.0
+1015,13/05/2020,Tamil Nadu,553.0
+1016,13/05/2020,Telangana,160.0
+1017,13/05/2020,Tripura,1.0
+1018,13/05/2020,Uttar Pradesh,190.0
+1019,13/05/2020,Uttarakhand,3.0
+1020,13/05/2020,West Bengal,216.0
+1021,13/06/2020,Andhra Pradesh,318.0
+1022,13/06/2020,Arunachal Pradesh,7.0
+1023,13/06/2020,Assam,428.0
+1024,13/06/2020,Bihar,563.0
+1025,13/06/2020,Chandigarh,5.0
+1026,13/06/2020,Chhattisgarh,192.0
+1027,13/06/2020,Dadra and Nagar Haveli and Daman and Diu,5.0
+1028,13/06/2020,Delhi,3738.0
+1029,13/06/2020,Goa,61.0
+1030,13/06/2020,Gujarat,940.0
+1031,13/06/2020,Haryana,751.0
+1032,13/06/2020,Himachal Pradesh,32.0
+1033,13/06/2020,Jammu and Kashmir,333.0
+1034,13/06/2020,Jharkhand,186.0
+1035,13/06/2020,Karnataka,519.0
+1036,13/06/2020,Kerala,131.0
+1037,13/06/2020,Ladakh,208.0
+1038,13/06/2020,Madhya Pradesh,381.0
+1039,13/06/2020,Maharashtra,5103.0
+1040,13/06/2020,Manipur,64.0
+1041,13/06/2020,Meghalaya,1.0
+1042,13/06/2020,Mizoram,6.0
+1043,13/06/2020,Nagaland,34.0
+1044,13/06/2020,Odisha,345.0
+1045,13/06/2020,Puducherry,19.0
+1046,13/06/2020,Punjab,124.0
+1047,13/06/2020,Rajasthan,669.0
+1048,13/06/2020,Sikkim,1.0
+1049,13/06/2020,State Unassigned,-331.0
+1050,13/06/2020,Tamil Nadu,3381.0
+1051,13/06/2020,Telangana,335.0
+1052,13/06/2020,Tripura,120.0
+1053,13/06/2020,Uttar Pradesh,788.0
+1054,13/06/2020,Uttarakhand,194.0
+1055,13/06/2020,West Bengal,802.0
+1056,14/03/2020,Himachal Pradesh,3.0
+1057,14/03/2020,Maharashtra,0.0
+1058,14/03/2020,Rajasthan,0.0
+1059,14/03/2020,Telangana,0.0
+1060,14/04/2020,Andhra Pradesh,0.0
+1061,14/04/2020,Assam,0.0
+1062,14/04/2020,Chhattisgarh,0.0
+1063,14/04/2020,Delhi,0.0
+1064,14/04/2020,Gujarat,0.0
+1065,14/04/2020,Haryana,0.0
+1066,14/04/2020,Himachal Pradesh,0.0
+1067,14/04/2020,Jammu and Kashmir,0.0
+1068,14/04/2020,Jharkhand,0.0
+1069,14/04/2020,Karnataka,0.0
+1070,14/04/2020,Kerala,0.0
+1071,14/04/2020,Madhya Pradesh,0.0
+1072,14/04/2020,Maharashtra,0.0
+1073,14/04/2020,Odisha,0.0
+1074,14/04/2020,Punjab,0.0
+1075,14/04/2020,Rajasthan,0.0
+1076,14/04/2020,Tamil Nadu,0.0
+1077,14/04/2020,Telangana,0.0
+1078,14/04/2020,Uttar Pradesh,0.0
+1079,14/04/2020,Uttarakhand,0.0
+1080,14/04/2020,West Bengal,0.0
+1081,14/05/2020,Andhra Pradesh,119.0
+1082,14/05/2020,Assam,7.0
+1083,14/05/2020,Bihar,58.0
+1084,14/05/2020,Chandigarh,7.0
+1085,14/05/2020,Chhattisgarh,2.0
+1086,14/05/2020,Delhi,668.0
+1087,14/05/2020,Goa,8.0
+1088,14/05/2020,Gujarat,535.0
+1089,14/05/2020,Haryana,46.0
+1090,14/05/2020,Himachal Pradesh,6.0
+1091,14/05/2020,Jammu and Kashmir,31.0
+1092,14/05/2020,Jharkhand,26.0
+1093,14/05/2020,Karnataka,39.0
+1094,14/05/2020,Kerala,29.0
+1095,14/05/2020,Madhya Pradesh,425.0
+1096,14/05/2020,Maharashtra,2188.0
+1097,14/05/2020,Manipur,1.0
+1098,14/05/2020,Odisha,149.0
+1099,14/05/2020,Puducherry,3.0
+1100,14/05/2020,Punjab,34.0
+1101,14/05/2020,Rajasthan,275.0
+1102,14/05/2020,Tamil Nadu,514.0
+1103,14/05/2020,Telangana,60.0
+1104,14/05/2020,Tripura,28.0
+1105,14/05/2020,Uttar Pradesh,253.0
+1106,14/05/2020,Uttarakhand,10.0
+1107,14/05/2020,West Bengal,161.0
+1108,14/06/2020,Andaman and Nicobar Islands,2.0
+1109,14/06/2020,Andhra Pradesh,427.0
+1110,14/06/2020,Arunachal Pradesh,4.0
+1111,14/06/2020,Assam,373.0
+1112,14/06/2020,Bihar,476.0
+1113,14/06/2020,Chandigarh,2.0
+1114,14/06/2020,Chhattisgarh,212.0
+1115,14/06/2020,Dadra and Nagar Haveli and Daman and Diu,4.0
+1116,14/06/2020,Delhi,3158.0
+1117,14/06/2020,Goa,45.0
+1118,14/06/2020,Gujarat,982.0
+1119,14/06/2020,Haryana,669.0
+1120,14/06/2020,Himachal Pradesh,34.0
+1121,14/06/2020,Jammu and Kashmir,287.0
+1122,14/06/2020,Jharkhand,141.0
+1123,14/06/2020,Karnataka,493.0
+1124,14/06/2020,Kerala,110.0
+1125,14/06/2020,Ladakh,124.0
+1126,14/06/2020,Madhya Pradesh,473.0
+1127,14/06/2020,Maharashtra,5142.0
+1128,14/06/2020,Manipur,27.0
+1129,14/06/2020,Meghalaya,3.0
+1130,14/06/2020,Mizoram,2.0
+1131,14/06/2020,Nagaland,14.0
+1132,14/06/2020,Odisha,301.0
+1133,14/06/2020,Puducherry,28.0
+1134,14/06/2020,Punjab,108.0
+1135,14/06/2020,Rajasthan,532.0
+1136,14/06/2020,Sikkim,5.0
+1137,14/06/2020,State Unassigned,-548.0
+1138,14/06/2020,Tamil Nadu,3150.0
+1139,14/06/2020,Telangana,265.0
+1140,14/06/2020,Tripura,151.0
+1141,14/06/2020,Uttar Pradesh,904.0
+1142,14/06/2020,Uttarakhand,70.0
+1143,14/06/2020,West Bengal,919.0
+1144,15/03/2020,Kerala,0.0
+1145,15/03/2020,Maharashtra,0.0
+1146,15/03/2020,Telangana,0.0
+1147,15/03/2020,Uttarakhand,0.0
+1148,15/04/2020,Andhra Pradesh,0.0
+1149,15/04/2020,Bihar,0.0
+1150,15/04/2020,Delhi,0.0
+1151,15/04/2020,Gujarat,0.0
+1152,15/04/2020,Haryana,0.0
+1153,15/04/2020,Himachal Pradesh,0.0
+1154,15/04/2020,Jammu and Kashmir,0.0
+1155,15/04/2020,Jharkhand,0.0
+1156,15/04/2020,Karnataka,0.0
+1157,15/04/2020,Kerala,0.0
+1158,15/04/2020,Ladakh,0.0
+1159,15/04/2020,Madhya Pradesh,0.0
+1160,15/04/2020,Maharashtra,0.0
+1161,15/04/2020,Meghalaya,0.0
+1162,15/04/2020,Punjab,0.0
+1163,15/04/2020,Rajasthan,0.0
+1164,15/04/2020,Tamil Nadu,0.0
+1165,15/04/2020,Telangana,0.0
+1166,15/04/2020,Uttar Pradesh,0.0
+1167,15/04/2020,West Bengal,0.0
+1168,15/05/2020,Andhra Pradesh,162.0
+1169,15/05/2020,Assam,4.0
+1170,15/05/2020,Bihar,62.0
+1171,15/05/2020,Chandigarh,3.0
+1172,15/05/2020,Chhattisgarh,6.0
+1173,15/05/2020,Delhi,906.0
+1174,15/05/2020,Gujarat,642.0
+1175,15/05/2020,Haryana,63.0
+1176,15/05/2020,Himachal Pradesh,2.0
+1177,15/05/2020,Jammu and Kashmir,58.0
+1178,15/05/2020,Jharkhand,18.0
+1179,15/05/2020,Karnataka,90.0
+1180,15/05/2020,Kerala,16.0
+1181,15/05/2020,Ladakh,2.0
+1182,15/05/2020,Madhya Pradesh,283.0
+1183,15/05/2020,Maharashtra,2100.0
+1184,15/05/2020,Odisha,73.0
+1185,15/05/2020,Punjab,79.0
+1186,15/05/2020,Rajasthan,304.0
+1187,15/05/2020,Tamil Nadu,798.0
+1188,15/05/2020,Telangana,47.0
+1189,15/05/2020,Tripura,13.0
+1190,15/05/2020,Uttar Pradesh,255.0
+1191,15/05/2020,Uttarakhand,5.0
+1192,15/05/2020,West Bengal,155.0
+1193,15/06/2020,Andaman and Nicobar Islands,1.0
+1194,15/06/2020,Andhra Pradesh,375.0
+1195,15/06/2020,Arunachal Pradesh,4.0
+1196,15/06/2020,Assam,436.0
+1197,15/06/2020,Bihar,440.0
+1198,15/06/2020,Chandigarh,12.0
+1199,15/06/2020,Chhattisgarh,168.0
+1200,15/06/2020,Delhi,2324.0
+1201,15/06/2020,Goa,39.0
+1202,15/06/2020,Gujarat,881.0
+1203,15/06/2020,Haryana,1088.0
+1204,15/06/2020,Himachal Pradesh,54.0
+1205,15/06/2020,Jammu and Kashmir,397.0
+1206,15/06/2020,Jharkhand,126.0
+1207,15/06/2020,Karnataka,389.0
+1208,15/06/2020,Kerala,156.0
+1209,15/06/2020,Ladakh,8.0
+1210,15/06/2020,Madhya Pradesh,365.0
+1211,15/06/2020,Maharashtra,8035.0
+1212,15/06/2020,Manipur,92.0
+1213,15/06/2020,Mizoram,5.0
+1214,15/06/2020,Nagaland,4.0
+1215,15/06/2020,Odisha,292.0
+1216,15/06/2020,Puducherry,12.0
+1217,15/06/2020,Punjab,218.0
+1218,15/06/2020,Rajasthan,515.0
+1219,15/06/2020,State Unassigned,-464.0
+1220,15/06/2020,Tamil Nadu,2684.0
+1221,15/06/2020,Telangana,610.0
+1222,15/06/2020,Tripura,10.0
+1223,15/06/2020,Uttar Pradesh,836.0
+1224,15/06/2020,Uttarakhand,107.0
+1225,15/06/2020,West Bengal,851.0
+1226,16/03/2020,Jammu and Kashmir,0.0
+1227,16/03/2020,Karnataka,0.0
+1228,16/03/2020,Kerala,0.0
+1229,16/03/2020,Maharashtra,0.0
+1230,16/03/2020,Odisha,0.0
+1231,16/03/2020,Telangana,0.0
+1232,16/04/2020,Andhra Pradesh,0.0
+1233,16/04/2020,Assam,0.0
+1234,16/04/2020,Bihar,0.0
+1235,16/04/2020,Chhattisgarh,0.0
+1236,16/04/2020,Delhi,0.0
+1237,16/04/2020,Gujarat,0.0
+1238,16/04/2020,Haryana,0.0
+1239,16/04/2020,Jammu and Kashmir,0.0
+1240,16/04/2020,Jharkhand,0.0
+1241,16/04/2020,Karnataka,0.0
+1242,16/04/2020,Kerala,0.0
+1243,16/04/2020,Madhya Pradesh,0.0
+1244,16/04/2020,Maharashtra,0.0
+1245,16/04/2020,Meghalaya,0.0
+1246,16/04/2020,Punjab,0.0
+1247,16/04/2020,Rajasthan,0.0
+1248,16/04/2020,Tamil Nadu,0.0
+1249,16/04/2020,Telangana,0.0
+1250,16/04/2020,Uttar Pradesh,0.0
+1251,16/04/2020,West Bengal,0.0
+1252,16/05/2020,Andhra Pradesh,150.0
+1253,16/05/2020,Assam,3.0
+1254,16/05/2020,Bihar,179.0
+1255,16/05/2020,Chandigarh,11.0
+1256,16/05/2020,Chhattisgarh,3.0
+1257,16/05/2020,Delhi,852.0
+1258,16/05/2020,Goa,5.0
+1259,16/05/2020,Gujarat,1349.0
+1260,16/05/2020,Haryana,83.0
+1261,16/05/2020,Himachal Pradesh,6.0
+1262,16/05/2020,Jammu and Kashmir,138.0
+1263,16/05/2020,Jharkhand,22.0
+1264,16/05/2020,Karnataka,52.0
+1265,16/05/2020,Kerala,15.0
+1266,16/05/2020,Madhya Pradesh,231.0
+1267,16/05/2020,Maharashtra,2197.0
+1268,16/05/2020,Manipur,4.0
+1269,16/05/2020,Odisha,30.0
+1270,16/05/2020,Puducherry,1.0
+1271,16/05/2020,Punjab,966.0
+1272,16/05/2020,Rajasthan,429.0
+1273,16/05/2020,Tamil Nadu,1420.0
+1274,16/05/2020,Telangana,67.0
+1275,16/05/2020,Tripura,33.0
+1276,16/05/2020,Uttar Pradesh,490.0
+1277,16/05/2020,Uttarakhand,9.0
+1278,16/05/2020,West Bengal,185.0
+1279,16/06/2020,Andaman and Nicobar Islands,3.0
+1280,16/06/2020,Andhra Pradesh,394.0
+1281,16/06/2020,Arunachal Pradesh,4.0
+1282,16/06/2020,Assam,407.0
+1283,16/06/2020,Bihar,494.0
+1284,16/06/2020,Chandigarh,9.0
+1285,16/06/2020,Chhattisgarh,160.0
+1286,16/06/2020,Dadra and Nagar Haveli and Daman and Diu,22.0
+1287,16/06/2020,Delhi,2369.0
+1288,16/06/2020,Goa,37.0
+1289,16/06/2020,Gujarat,970.0
+1290,16/06/2020,Haryana,751.0
+1291,16/06/2020,Himachal Pradesh,23.0
+1292,16/06/2020,Jammu and Kashmir,256.0
+1293,16/06/2020,Jharkhand,167.0
+1294,16/06/2020,Karnataka,646.0
+1295,16/06/2020,Kerala,139.0
+1296,16/06/2020,Ladakh,97.0
+1297,16/06/2020,Madhya Pradesh,408.0
+1298,16/06/2020,Maharashtra,5912.0
+1299,16/06/2020,Manipur,18.0
+1300,16/06/2020,Meghalaya,2.0
+1301,16/06/2020,Mizoram,4.0
+1302,16/06/2020,Nagaland,17.0
+1303,16/06/2020,Odisha,228.0
+1304,16/06/2020,Puducherry,18.0
+1305,16/06/2020,Punjab,123.0
+1306,16/06/2020,Rajasthan,419.0
+1307,16/06/2020,State Unassigned,712.0
+1308,16/06/2020,Tamil Nadu,3002.0
+1309,16/06/2020,Telangana,478.0
+1310,16/06/2020,Tripura,124.0
+1311,16/06/2020,Uttar Pradesh,819.0
+1312,16/06/2020,Uttarakhand,126.0
+1313,16/06/2020,West Bengal,959.0
+1314,17/03/2020,Delhi,0.0
+1315,17/03/2020,Haryana,0.0
+1316,17/03/2020,Karnataka,0.0
+1317,17/03/2020,Ladakh,0.0
+1318,17/03/2020,Maharashtra,0.0
+1319,17/03/2020,Puducherry,0.0
+1320,17/03/2020,Telangana,0.0
+1321,17/03/2020,Uttar Pradesh,0.0
+1322,17/03/2020,West Bengal,0.0
+1323,17/04/2020,Andaman and Nicobar Islands,0.0
+1324,17/04/2020,Andhra Pradesh,0.0
+1325,17/04/2020,Bihar,0.0
+1326,17/04/2020,Delhi,0.0
+1327,17/04/2020,Gujarat,0.0
+1328,17/04/2020,Haryana,0.0
+1329,17/04/2020,Himachal Pradesh,0.0
+1330,17/04/2020,Jammu and Kashmir,0.0
+1331,17/04/2020,Jharkhand,0.0
+1332,17/04/2020,Karnataka,0.0
+1333,17/04/2020,Kerala,0.0
+1334,17/04/2020,Madhya Pradesh,0.0
+1335,17/04/2020,Maharashtra,0.0
+1336,17/04/2020,Punjab,0.0
+1337,17/04/2020,Rajasthan,0.0
+1338,17/04/2020,Tamil Nadu,0.0
+1339,17/04/2020,Telangana,0.0
+1340,17/04/2020,Uttar Pradesh,0.0
+1341,17/04/2020,Uttarakhand,0.0
+1342,17/04/2020,West Bengal,0.0
+1343,17/05/2020,Andhra Pradesh,129.0
+1344,17/05/2020,Assam,10.0
+1345,17/05/2020,Bihar,142.0
+1346,17/05/2020,Chhattisgarh,19.0
+1347,17/05/2020,Delhi,717.0
+1348,17/05/2020,Goa,9.0
+1349,17/05/2020,Gujarat,616.0
+1350,17/05/2020,Haryana,72.0
+1351,17/05/2020,Himachal Pradesh,3.0
+1352,17/05/2020,Jammu and Kashmir,96.0
+1353,17/05/2020,Jharkhand,6.0
+1354,17/05/2020,Karnataka,69.0
+1355,17/05/2020,Kerala,14.0
+1356,17/05/2020,Madhya Pradesh,280.0
+1357,17/05/2020,Maharashtra,3010.0
+1358,17/05/2020,Odisha,116.0
+1359,17/05/2020,Punjab,130.0
+1360,17/05/2020,Rajasthan,358.0
+1361,17/05/2020,Tamil Nadu,1277.0
+1362,17/05/2020,Telangana,63.0
+1363,17/05/2020,Tripura,21.0
+1364,17/05/2020,Uttar Pradesh,409.0
+1365,17/05/2020,Uttarakhand,2.0
+1366,17/05/2020,West Bengal,174.0
+1367,17/06/2020,Andhra Pradesh,481.0
+1368,17/06/2020,Arunachal Pradesh,7.0
+1369,17/06/2020,Assam,415.0
+1370,17/06/2020,Bihar,335.0
+1371,17/06/2020,Chandigarh,9.0
+1372,17/06/2020,Chhattisgarh,245.0
+1373,17/06/2020,Dadra and Nagar Haveli and Daman and Diu,8.0
+1374,17/06/2020,Delhi,3438.0
+1375,17/06/2020,Goa,38.0
+1376,17/06/2020,Gujarat,895.0
+1377,17/06/2020,Haryana,776.0
+1378,17/06/2020,Himachal Pradesh,32.0
+1379,17/06/2020,Jammu and Kashmir,242.0
+1380,17/06/2020,Jharkhand,88.0
+1381,17/06/2020,Karnataka,560.0
+1382,17/06/2020,Kerala,165.0
+1383,17/06/2020,Ladakh,45.0
+1384,17/06/2020,Madhya Pradesh,403.0
+1385,17/06/2020,Maharashtra,4736.0
+1386,17/06/2020,Manipur,85.0
+1387,17/06/2020,Meghalaya,2.0
+1388,17/06/2020,Nagaland,14.0
+1389,17/06/2020,Odisha,248.0
+1390,17/06/2020,Puducherry,40.0
+1391,17/06/2020,Punjab,209.0
+1392,17/06/2020,Rajasthan,836.0
+1393,17/06/2020,Sikkim,2.0
+1394,17/06/2020,State Unassigned,589.0
+1395,17/06/2020,Tamil Nadu,3064.0
+1396,17/06/2020,Telangana,314.0
+1397,17/06/2020,Tripura,43.0
+1398,17/06/2020,Uttar Pradesh,948.0
+1399,17/06/2020,Uttarakhand,120.0
+1400,17/06/2020,West Bengal,907.0
+1401,18/03/2020,Delhi,0.0
+1402,18/03/2020,Haryana,0.0
+1403,18/03/2020,Jammu and Kashmir,0.0
+1404,18/03/2020,Karnataka,0.0
+1405,18/03/2020,Maharashtra,0.0
+1406,18/03/2020,Rajasthan,0.0
+1407,18/03/2020,Tamil Nadu,0.0
+1408,18/03/2020,Telangana,0.0
+1409,18/03/2020,Uttar Pradesh,0.0
+1410,18/04/2020,Andaman and Nicobar Islands,0.0
+1411,18/04/2020,Andhra Pradesh,0.0
+1412,18/04/2020,Bihar,0.0
+1413,18/04/2020,Chandigarh,0.0
+1414,18/04/2020,Delhi,0.0
+1415,18/04/2020,Gujarat,0.0
+1416,18/04/2020,Haryana,0.0
+1417,18/04/2020,Himachal Pradesh,0.0
+1418,18/04/2020,Jammu and Kashmir,0.0
+1419,18/04/2020,Jharkhand,0.0
+1420,18/04/2020,Karnataka,0.0
+1421,18/04/2020,Kerala,0.0
+1422,18/04/2020,Madhya Pradesh,0.0
+1423,18/04/2020,Maharashtra,0.0
+1424,18/04/2020,Meghalaya,0.0
+1425,18/04/2020,Odisha,0.0
+1426,18/04/2020,Punjab,0.0
+1427,18/04/2020,Rajasthan,0.0
+1428,18/04/2020,Tamil Nadu,0.0
+1429,18/04/2020,Telangana,0.0
+1430,18/04/2020,Uttar Pradesh,0.0
+1431,18/04/2020,Uttarakhand,0.0
+1432,18/04/2020,West Bengal,0.0
+1433,18/05/2020,Andhra Pradesh,148.0
+1434,18/05/2020,Assam,17.0
+1435,18/05/2020,Bihar,148.0
+1436,18/05/2020,Chandigarh,8.0
+1437,18/05/2020,Chhattisgarh,10.0
+1438,18/05/2020,Delhi,594.0
+1439,18/05/2020,Goa,9.0
+1440,18/05/2020,Gujarat,706.0
+1441,18/05/2020,Haryana,54.0
+1442,18/05/2020,Himachal Pradesh,12.0
+1443,18/05/2020,Jammu and Kashmir,142.0
+1444,18/05/2020,Jharkhand,19.0
+1445,18/05/2020,Karnataka,120.0
+1446,18/05/2020,Kerala,29.0
+1447,18/05/2020,Ladakh,19.0
+1448,18/05/2020,Madhya Pradesh,295.0
+1449,18/05/2020,Maharashtra,2805.0
+1450,18/05/2020,Meghalaya,1.0
+1451,18/05/2020,Odisha,105.0
+1452,18/05/2020,Punjab,199.0
+1453,18/05/2020,Rajasthan,475.0
+1454,18/05/2020,Tamil Nadu,773.0
+1455,18/05/2020,Telangana,51.0
+1456,18/05/2020,Tripura,4.0
+1457,18/05/2020,Uttar Pradesh,294.0
+1458,18/05/2020,Uttarakhand,4.0
+1459,18/05/2020,West Bengal,200.0
+1460,18/06/2020,Andaman and Nicobar Islands,3.0
+1461,18/06/2020,Andhra Pradesh,558.0
+1462,18/06/2020,Arunachal Pradesh,1.0
+1463,18/06/2020,Assam,416.0
+1464,18/06/2020,Bihar,290.0
+1465,18/06/2020,Chandigarh,4.0
+1466,18/06/2020,Chhattisgarh,185.0
+1467,18/06/2020,Dadra and Nagar Haveli and Daman and Diu,6.0
+1468,18/06/2020,Delhi,6826.0
+1469,18/06/2020,Goa,62.0
+1470,18/06/2020,Gujarat,930.0
+1471,18/06/2020,Haryana,994.0
+1472,18/06/2020,Himachal Pradesh,15.0
+1473,18/06/2020,Jammu and Kashmir,386.0
+1474,18/06/2020,Jharkhand,71.0
+1475,18/06/2020,Karnataka,398.0
+1476,18/06/2020,Kerala,188.0
+1477,18/06/2020,Ladakh,3.0
+1478,18/06/2020,Madhya Pradesh,430.0
+1479,18/06/2020,Maharashtra,5524.0
+1480,18/06/2020,Manipur,61.0
+1481,18/06/2020,Meghalaya,1.0
+1482,18/06/2020,Mizoram,9.0
+1483,18/06/2020,Nagaland,6.0
+1484,18/06/2020,Odisha,271.0
+1485,18/06/2020,Puducherry,34.0
+1486,18/06/2020,Punjab,155.0
+1487,18/06/2020,Rajasthan,607.0
+1488,18/06/2020,Sikkim,1.0
+1489,18/06/2020,State Unassigned,430.0
+1490,18/06/2020,Tamil Nadu,3207.0
+1491,18/06/2020,Telangana,585.0
+1492,18/06/2020,Tripura,104.0
+1493,18/06/2020,Uttar Pradesh,1026.0
+1494,18/06/2020,Uttarakhand,212.0
+1495,18/06/2020,West Bengal,915.0
+1496,19/03/2020,Andhra Pradesh,0.0
+1497,19/03/2020,Chandigarh,0.0
+1498,19/03/2020,Chhattisgarh,0.0
+1499,19/03/2020,Delhi,0.0
+1500,19/03/2020,Gujarat,0.0
+1501,19/03/2020,Karnataka,0.0
+1502,19/03/2020,Kerala,0.0
+1503,19/03/2020,Maharashtra,0.0
+1504,19/03/2020,Odisha,0.0
+1505,19/03/2020,Punjab,0.0
+1506,19/03/2020,Rajasthan,0.0
+1507,19/03/2020,Tamil Nadu,0.0
+1508,19/03/2020,Telangana,0.0
+1509,19/03/2020,Uttar Pradesh,0.0
+1510,19/03/2020,Uttarakhand,0.0
+1511,19/04/2020,Andaman and Nicobar Islands,0.0
+1512,19/04/2020,Andhra Pradesh,0.0
+1513,19/04/2020,Bihar,0.0
+1514,19/04/2020,Chandigarh,0.0
+1515,19/04/2020,Delhi,0.0
+1516,19/04/2020,Gujarat,0.0
+1517,19/04/2020,Haryana,0.0
+1518,19/04/2020,Jammu and Kashmir,0.0
+1519,19/04/2020,Jharkhand,0.0
+1520,19/04/2020,Karnataka,0.0
+1521,19/04/2020,Kerala,0.0
+1522,19/04/2020,Madhya Pradesh,0.0
+1523,19/04/2020,Maharashtra,0.0
+1524,19/04/2020,Punjab,0.0
+1525,19/04/2020,Rajasthan,0.0
+1526,19/04/2020,Tamil Nadu,0.0
+1527,19/04/2020,Telangana,0.0
+1528,19/04/2020,Uttar Pradesh,0.0
+1529,19/04/2020,Uttarakhand,0.0
+1530,19/04/2020,West Bengal,0.0
+1531,19/05/2020,Andhra Pradesh,128.0
+1532,19/05/2020,Assam,42.0
+1533,19/05/2020,Bihar,96.0
+1534,19/05/2020,Chandigarh,6.0
+1535,19/05/2020,Chhattisgarh,5.0
+1536,19/05/2020,Delhi,771.0
+1537,19/05/2020,Goa,8.0
+1538,19/05/2020,Gujarat,659.0
+1539,19/05/2020,Haryana,65.0
+1540,19/05/2020,Himachal Pradesh,8.0
+1541,19/05/2020,Jammu and Kashmir,68.0
+1542,19/05/2020,Jharkhand,20.0
+1543,19/05/2020,Karnataka,165.0
+1544,19/05/2020,Kerala,12.0
+1545,19/05/2020,Madhya Pradesh,431.0
+1546,19/05/2020,Maharashtra,3356.0
+1547,19/05/2020,Manipur,2.0
+1548,19/05/2020,Odisha,133.0
+1549,19/05/2020,Puducherry,6.0
+1550,19/05/2020,Punjab,118.0
+1551,19/05/2020,Rajasthan,462.0
+1552,19/05/2020,State Unassigned,814.0
+1553,19/05/2020,Tamil Nadu,1180.0
+1554,19/05/2020,Telangana,55.0
+1555,19/05/2020,Tripura,35.0
+1556,19/05/2020,Uttar Pradesh,461.0
+1557,19/05/2020,Uttarakhand,15.0
+1558,19/05/2020,West Bengal,211.0
+1559,19/06/2020,Andaman and Nicobar Islands,2.0
+1560,19/06/2020,Andhra Pradesh,602.0
+1561,19/06/2020,Arunachal Pradesh,35.0
+1562,19/06/2020,Assam,320.0
+1563,19/06/2020,Bihar,392.0
+1564,19/06/2020,Chandigarh,16.0
+1565,19/06/2020,Chhattisgarh,176.0
+1566,19/06/2020,Dadra and Nagar Haveli and Daman and Diu,14.0
+1567,19/06/2020,Delhi,5431.0
+1568,19/06/2020,Goa,29.0
+1569,19/06/2020,Gujarat,907.0
+1570,19/06/2020,Haryana,868.0
+1571,19/06/2020,Himachal Pradesh,46.0
+1572,19/06/2020,Jammu and Kashmir,179.0
+1573,19/06/2020,Jharkhand,179.0
+1574,19/06/2020,Karnataka,576.0
+1575,19/06/2020,Kerala,214.0
+1576,19/06/2020,Ladakh,57.0
+1577,19/06/2020,Madhya Pradesh,281.0
+1578,19/06/2020,Maharashtra,5904.0
+1579,19/06/2020,Manipur,94.0
+1580,19/06/2020,Mizoram,8.0
+1581,19/06/2020,Nagaland,21.0
+1582,19/06/2020,Odisha,318.0
+1583,19/06/2020,Puducherry,19.0
+1584,19/06/2020,Punjab,292.0
+1585,19/06/2020,Rajasthan,557.0
+1586,19/06/2020,Sikkim,16.0
+1587,19/06/2020,State Unassigned,224.0
+1588,19/06/2020,Tamil Nadu,3786.0
+1589,19/06/2020,Telangana,553.0
+1590,19/06/2020,Tripura,45.0
+1591,19/06/2020,Uttar Pradesh,1185.0
+1592,19/06/2020,Uttarakhand,123.0
+1593,19/06/2020,West Bengal,668.0
+1594,20/03/2020,Chandigarh,0.0
+1595,20/03/2020,Delhi,0.0
+1596,20/03/2020,Gujarat,0.0
+1597,20/03/2020,Haryana,0.0
+1598,20/03/2020,Himachal Pradesh,0.0
+1599,20/03/2020,Kerala,0.0
+1600,20/03/2020,Ladakh,0.0
+1601,20/03/2020,Madhya Pradesh,0.0
+1602,20/03/2020,Maharashtra,0.0
+1603,20/03/2020,Punjab,0.0
+1604,20/03/2020,Rajasthan,0.0
+1605,20/03/2020,Telangana,0.0
+1606,20/03/2020,Uttar Pradesh,0.0
+1607,20/03/2020,West Bengal,0.0
+1608,20/04/2020,Andaman and Nicobar Islands,0.0
+1609,20/04/2020,Andhra Pradesh,0.0
+1610,20/04/2020,Bihar,0.0
+1611,20/04/2020,Delhi,0.0
+1612,20/04/2020,Gujarat,0.0
+1613,20/04/2020,Haryana,0.0
+1614,20/04/2020,Jammu and Kashmir,0.0
+1615,20/04/2020,Jharkhand,0.0
+1616,20/04/2020,Karnataka,0.0
+1617,20/04/2020,Kerala,0.0
+1618,20/04/2020,Madhya Pradesh,0.0
+1619,20/04/2020,Maharashtra,0.0
+1620,20/04/2020,Odisha,0.0
+1621,20/04/2020,Punjab,0.0
+1622,20/04/2020,Rajasthan,0.0
+1623,20/04/2020,Tamil Nadu,0.0
+1624,20/04/2020,Telangana,0.0
+1625,20/04/2020,Uttar Pradesh,0.0
+1626,20/04/2020,Uttarakhand,0.0
+1627,20/04/2020,West Bengal,0.0
+1628,20/05/2020,Andhra Pradesh,115.0
+1629,20/05/2020,Assam,42.0
+1630,20/05/2020,Bihar,311.0
+1631,20/05/2020,Chandigarh,82.0
+1632,20/05/2020,Chhattisgarh,14.0
+1633,20/05/2020,Delhi,986.0
+1634,20/05/2020,Goa,4.0
+1635,20/05/2020,Gujarat,604.0
+1636,20/05/2020,Haryana,50.0
+1637,20/05/2020,Himachal Pradesh,21.0
+1638,20/05/2020,Jammu and Kashmir,105.0
+1639,20/05/2020,Jharkhand,44.0
+1640,20/05/2020,Karnataka,81.0
+1641,20/05/2020,Kerala,29.0
+1642,20/05/2020,Ladakh,1.0
+1643,20/05/2020,Madhya Pradesh,382.0
+1644,20/05/2020,Maharashtra,2905.0
+1645,20/05/2020,Manipur,16.0
+1646,20/05/2020,Meghalaya,1.0
+1647,20/05/2020,Odisha,111.0
+1648,20/05/2020,Puducherry,1.0
+1649,20/05/2020,Punjab,155.0
+1650,20/05/2020,Rajasthan,241.0
+1651,20/05/2020,State Unassigned,282.0
+1652,20/05/2020,Tamil Nadu,1733.0
+1653,20/05/2020,Telangana,31.0
+1654,20/05/2020,Uttar Pradesh,401.0
+1655,20/05/2020,Uttarakhand,16.0
+1656,20/05/2020,West Bengal,207.0
+1657,20/06/2020,Andhra Pradesh,702.0
+1658,20/06/2020,Arunachal Pradesh,1.0
+1659,20/06/2020,Assam,385.0
+1660,20/06/2020,Bihar,482.0
+1661,20/06/2020,Chandigarh,24.0
+1662,20/06/2020,Chhattisgarh,180.0
+1663,20/06/2020,Dadra and Nagar Haveli and Daman and Diu,29.0
+1664,20/06/2020,Delhi,11432.0
+1665,20/06/2020,Goa,40.0
+1666,20/06/2020,Gujarat,1094.0
+1667,20/06/2020,Haryana,724.0
+1668,20/06/2020,Himachal Pradesh,49.0
+1669,20/06/2020,Jammu and Kashmir,302.0
+1670,20/06/2020,Jharkhand,132.0
+1671,20/06/2020,Karnataka,608.0
+1672,20/06/2020,Kerala,184.0
+1673,20/06/2020,Ladakh,114.0
+1674,20/06/2020,Madhya Pradesh,280.0
+1675,20/06/2020,Maharashtra,5346.0
+1676,20/06/2020,Manipur,110.0
+1677,20/06/2020,Mizoram,10.0
+1678,20/06/2020,Nagaland,16.0
+1679,20/06/2020,Odisha,417.0
+1680,20/06/2020,Puducherry,64.0
+1681,20/06/2020,Punjab,168.0
+1682,20/06/2020,Rajasthan,662.0
+1683,20/06/2020,State Unassigned,338.0
+1684,20/06/2020,Tamil Nadu,3479.0
+1685,20/06/2020,Telangana,705.0
+1686,20/06/2020,Tripura,31.0
+1687,20/06/2020,Uttar Pradesh,937.0
+1688,20/06/2020,Uttarakhand,142.0
+1689,20/06/2020,West Bengal,1014.0
+1690,21/03/2020,Andhra Pradesh,0.0
+1691,21/03/2020,Delhi,0.0
+1692,21/03/2020,Gujarat,0.0
+1693,21/03/2020,Haryana,0.0
+1694,21/03/2020,Karnataka,0.0
+1695,21/03/2020,Kerala,0.0
+1696,21/03/2020,Ladakh,0.0
+1697,21/03/2020,Maharashtra,0.0
+1698,21/03/2020,Punjab,0.0
+1699,21/03/2020,Rajasthan,0.0
+1700,21/03/2020,Tamil Nadu,0.0
+1701,21/03/2020,Telangana,0.0
+1702,21/03/2020,Uttar Pradesh,0.0
+1703,21/03/2020,West Bengal,0.0
+1704,21/04/2020,Andaman and Nicobar Islands,0.0
+1705,21/04/2020,Andhra Pradesh,0.0
+1706,21/04/2020,Bihar,0.0
+1707,21/04/2020,Chandigarh,0.0
+1708,21/04/2020,Delhi,0.0
+1709,21/04/2020,Gujarat,0.0
+1710,21/04/2020,Haryana,0.0
+1711,21/04/2020,Jammu and Kashmir,0.0
+1712,21/04/2020,Karnataka,0.0
+1713,21/04/2020,Kerala,0.0
+1714,21/04/2020,Madhya Pradesh,0.0
+1715,21/04/2020,Maharashtra,0.0
+1716,21/04/2020,Meghalaya,0.0
+1717,21/04/2020,Odisha,0.0
+1718,21/04/2020,Punjab,0.0
+1719,21/04/2020,Rajasthan,0.0
+1720,21/04/2020,Tamil Nadu,0.0
+1721,21/04/2020,Telangana,0.0
+1722,21/04/2020,Uttar Pradesh,0.0
+1723,21/04/2020,West Bengal,0.0
+1724,21/05/2020,Andhra Pradesh,87.0
+1725,21/05/2020,Assam,28.0
+1726,21/05/2020,Bihar,211.0
+1727,21/05/2020,Chandigarh,58.0
+1728,21/05/2020,Chhattisgarh,14.0
+1729,21/05/2020,Delhi,964.0
+1730,21/05/2020,Goa,2.0
+1731,21/05/2020,Gujarat,664.0
+1732,21/05/2020,Haryana,70.0
+1733,21/05/2020,Himachal Pradesh,47.0
+1734,21/05/2020,Jammu and Kashmir,67.0
+1735,21/05/2020,Jharkhand,20.0
+1736,21/05/2020,Karnataka,158.0
+1737,21/05/2020,Kerala,32.0
+1738,21/05/2020,Madhya Pradesh,360.0
+1739,21/05/2020,Maharashtra,3817.0
+1740,21/05/2020,Odisha,102.0
+1741,21/05/2020,Punjab,49.0
+1742,21/05/2020,Rajasthan,297.0
+1743,21/05/2020,State Unassigned,307.0
+1744,21/05/2020,Tamil Nadu,1183.0
+1745,21/05/2020,Telangana,66.0
+1746,21/05/2020,Tripura,34.0
+1747,21/05/2020,Uttar Pradesh,489.0
+1748,21/05/2020,Uttarakhand,19.0
+1749,21/05/2020,West Bengal,157.0
+1750,21/06/2020,Andaman and Nicobar Islands,3.0
+1751,21/06/2020,Andhra Pradesh,678.0
+1752,21/06/2020,Arunachal Pradesh,10.0
+1753,21/06/2020,Assam,533.0
+1754,21/06/2020,Bihar,428.0
+1755,21/06/2020,Chandigarh,2.0
+1756,21/06/2020,Chhattisgarh,174.0
+1757,21/06/2020,Dadra and Nagar Haveli and Daman and Diu,4.0
+1758,21/06/2020,Delhi,4782.0
+1759,21/06/2020,Goa,70.0
+1760,21/06/2020,Gujarat,1260.0
+1761,21/06/2020,Haryana,852.0
+1762,21/06/2020,Himachal Pradesh,29.0
+1763,21/06/2020,Jammu and Kashmir,169.0
+1764,21/06/2020,Jharkhand,67.0
+1765,21/06/2020,Karnataka,683.0
+1766,21/06/2020,Kerala,226.0
+1767,21/06/2020,Ladakh,18.0
+1768,21/06/2020,Madhya Pradesh,328.0
+1769,21/06/2020,Maharashtra,5647.0
+1770,21/06/2020,Manipur,82.0
+1771,21/06/2020,Meghalaya,5.0
+1772,21/06/2020,Mizoram,1.0
+1773,21/06/2020,Nagaland,13.0
+1774,21/06/2020,Odisha,494.0
+1775,21/06/2020,Puducherry,38.0
+1776,21/06/2020,Punjab,145.0
+1777,21/06/2020,Rajasthan,728.0
+1778,21/06/2020,Sikkim,8.0
+1779,21/06/2020,State Unassigned,-138.0
+1780,21/06/2020,Tamil Nadu,4023.0
+1781,21/06/2020,Telangana,962.0
+1782,21/06/2020,Tripura,114.0
+1783,21/06/2020,Uttar Pradesh,1243.0
+1784,21/06/2020,Uttarakhand,93.0
+1785,21/06/2020,West Bengal,861.0
+1786,22/03/2020,Andhra Pradesh,0.0
+1787,22/03/2020,Bihar,0.0
+1788,22/03/2020,Chandigarh,0.0
+1789,22/03/2020,Delhi,0.0
+1790,22/03/2020,Gujarat,0.0
+1791,22/03/2020,Karnataka,0.0
+1792,22/03/2020,Kerala,0.0
+1793,22/03/2020,Madhya Pradesh,0.0
+1794,22/03/2020,Maharashtra,0.0
+1795,22/03/2020,Punjab,0.0
+1796,22/03/2020,Rajasthan,0.0
+1797,22/03/2020,Tamil Nadu,0.0
+1798,22/03/2020,Telangana,0.0
+1799,22/03/2020,Uttar Pradesh,0.0
+1800,22/03/2020,West Bengal,0.0
+1801,22/04/2020,Andaman and Nicobar Islands,0.0
+1802,22/04/2020,Andhra Pradesh,0.0
+1803,22/04/2020,Bihar,0.0
+1804,22/04/2020,Delhi,0.0
+1805,22/04/2020,Gujarat,0.0
+1806,22/04/2020,Haryana,0.0
+1807,22/04/2020,Jammu and Kashmir,0.0
+1808,22/04/2020,Karnataka,0.0
+1809,22/04/2020,Kerala,0.0
+1810,22/04/2020,Madhya Pradesh,0.0
+1811,22/04/2020,Maharashtra,0.0
+1812,22/04/2020,Odisha,0.0
+1813,22/04/2020,Punjab,0.0
+1814,22/04/2020,Rajasthan,0.0
+1815,22/04/2020,Tamil Nadu,0.0
+1816,22/04/2020,Telangana,0.0
+1817,22/04/2020,Uttar Pradesh,0.0
+1818,22/04/2020,West Bengal,0.0
+1819,22/05/2020,Andhra Pradesh,89.0
+1820,22/05/2020,Assam,15.0
+1821,22/05/2020,Bihar,239.0
+1822,22/05/2020,Chandigarh,1.0
+1823,22/05/2020,Chhattisgarh,47.0
+1824,22/05/2020,Delhi,1004.0
+1825,22/05/2020,Goa,11.0
+1826,22/05/2020,Gujarat,784.0
+1827,22/05/2020,Haryana,64.0
+1828,22/05/2020,Himachal Pradesh,16.0
+1829,22/05/2020,Jammu and Kashmir,76.0
+1830,22/05/2020,Jharkhand,20.0
+1831,22/05/2020,Karnataka,164.0
+1832,22/05/2020,Kerala,45.0
+1833,22/05/2020,Ladakh,2.0
+1834,22/05/2020,Madhya Pradesh,435.0
+1835,22/05/2020,Maharashtra,3860.0
+1836,22/05/2020,Manipur,1.0
+1837,22/05/2020,Odisha,129.0
+1838,22/05/2020,Puducherry,3.0
+1839,22/05/2020,Punjab,29.0
+1840,22/05/2020,Rajasthan,464.0
+1841,22/05/2020,State Unassigned,217.0
+1842,22/05/2020,Tamil Nadu,1636.0
+1843,22/05/2020,Telangana,72.0
+1844,22/05/2020,Tripura,4.0
+1845,22/05/2020,Uttar Pradesh,354.0
+1846,22/05/2020,Uttarakhand,8.0
+1847,22/05/2020,West Bengal,169.0
+1848,22/06/2020,Bihar,143.0
+1849,22/06/2020,Goa,1.0
+1850,22/06/2020,Haryana,75.0
+1851,22/06/2020,Himachal Pradesh,31.0
+1852,22/06/2020,Mizoram,1.0
+1853,22/06/2020,Nagaland,69.0
+1854,22/06/2020,Odisha,145.0
+1855,22/06/2020,Puducherry,26.0
+1856,22/06/2020,Rajasthan,122.0
+1857,22/06/2020,State Unassigned,-1295.0
+1858,22/06/2020,Uttarakhand,68.0
+1859,23/03/2020,Andhra Pradesh,0.0
+1860,23/03/2020,Bihar,0.0
+1861,23/03/2020,Chandigarh,0.0
+1862,23/03/2020,Delhi,0.0
+1863,23/03/2020,Gujarat,0.0
+1864,23/03/2020,Haryana,0.0
+1865,23/03/2020,Himachal Pradesh,0.0
+1866,23/03/2020,Karnataka,0.0
+1867,23/03/2020,Kerala,0.0
+1868,23/03/2020,Maharashtra,0.0
+1869,23/03/2020,Punjab,0.0
+1870,23/03/2020,Rajasthan,0.0
+1871,23/03/2020,Tamil Nadu,0.0
+1872,23/03/2020,Telangana,0.0
+1873,23/03/2020,Uttar Pradesh,0.0
+1874,23/03/2020,Uttarakhand,0.0
+1875,23/04/2020,Andaman and Nicobar Islands,0.0
+1876,23/04/2020,Andhra Pradesh,0.0
+1877,23/04/2020,Assam,0.0
+1878,23/04/2020,Bihar,0.0
+1879,23/04/2020,Delhi,0.0
+1880,23/04/2020,Gujarat,0.0
+1881,23/04/2020,Haryana,0.0
+1882,23/04/2020,Himachal Pradesh,0.0
+1883,23/04/2020,Jammu and Kashmir,0.0
+1884,23/04/2020,Jharkhand,0.0
+1885,23/04/2020,Karnataka,0.0
+1886,23/04/2020,Kerala,0.0
+1887,23/04/2020,Madhya Pradesh,0.0
+1888,23/04/2020,Maharashtra,0.0
+1889,23/04/2020,Odisha,0.0
+1890,23/04/2020,Punjab,0.0
+1891,23/04/2020,Rajasthan,0.0
+1892,23/04/2020,Tamil Nadu,0.0
+1893,23/04/2020,Telangana,0.0
+1894,23/04/2020,Uttar Pradesh,0.0
+1895,23/04/2020,Uttarakhand,0.0
+1896,23/04/2020,West Bengal,0.0
+1897,23/05/2020,Andhra Pradesh,96.0
+1898,23/05/2020,Assam,123.0
+1899,23/05/2020,Bihar,252.0
+1900,23/05/2020,Chandigarh,7.0
+1901,23/05/2020,Chhattisgarh,44.0
+1902,23/05/2020,Dadra and Nagar Haveli and Daman and Diu,1.0
+1903,23/05/2020,Delhi,984.0
+1904,23/05/2020,Goa,1.0
+1905,23/05/2020,Gujarat,712.0
+1906,23/05/2020,Haryana,108.0
+1907,23/05/2020,Himachal Pradesh,19.0
+1908,23/05/2020,Jammu and Kashmir,135.0
+1909,23/05/2020,Jharkhand,32.0
+1910,23/05/2020,Karnataka,229.0
+1911,23/05/2020,Kerala,65.0
+1912,23/05/2020,Ladakh,3.0
+1913,23/05/2020,Madhya Pradesh,388.0
+1914,23/05/2020,Maharashtra,3489.0
+1915,23/05/2020,Manipur,3.0
+1916,23/05/2020,Odisha,141.0
+1917,23/05/2020,Punjab,39.0
+1918,23/05/2020,Rajasthan,361.0
+1919,23/05/2020,Sikkim,1.0
+1920,23/05/2020,State Unassigned,279.0
+1921,23/05/2020,Tamil Nadu,1127.0
+1922,23/05/2020,Telangana,78.0
+1923,23/05/2020,Tripura,16.0
+1924,23/05/2020,Uttar Pradesh,367.0
+1925,23/05/2020,Uttarakhand,93.0
+1926,23/05/2020,West Bengal,191.0
+1927,24/03/2020,Andhra Pradesh,0.0
+1928,24/03/2020,Gujarat,0.0
+1929,24/03/2020,Haryana,0.0
+1930,24/03/2020,Jammu and Kashmir,0.0
+1931,24/03/2020,Karnataka,0.0
+1932,24/03/2020,Kerala,0.0
+1933,24/03/2020,Madhya Pradesh,0.0
+1934,24/03/2020,Maharashtra,0.0
+1935,24/03/2020,Manipur,0.0
+1936,24/03/2020,Punjab,0.0
+1937,24/03/2020,Tamil Nadu,0.0
+1938,24/03/2020,Telangana,0.0
+1939,24/03/2020,Uttar Pradesh,0.0
+1940,24/03/2020,West Bengal,0.0
+1941,24/04/2020,Andaman and Nicobar Islands,0.0
+1942,24/04/2020,Andhra Pradesh,0.0
+1943,24/04/2020,Bihar,0.0
+1944,24/04/2020,Delhi,0.0
+1945,24/04/2020,Gujarat,0.0
+1946,24/04/2020,Haryana,0.0
+1947,24/04/2020,Jammu and Kashmir,0.0
+1948,24/04/2020,Jharkhand,0.0
+1949,24/04/2020,Karnataka,0.0
+1950,24/04/2020,Kerala,0.0
+1951,24/04/2020,Madhya Pradesh,0.0
+1952,24/04/2020,Maharashtra,0.0
+1953,24/04/2020,Odisha,0.0
+1954,24/04/2020,Punjab,0.0
+1955,24/04/2020,Rajasthan,0.0
+1956,24/04/2020,Tamil Nadu,0.0
+1957,24/04/2020,Telangana,0.0
+1958,24/04/2020,Uttar Pradesh,0.0
+1959,24/04/2020,Uttarakhand,0.0
+1960,24/04/2020,West Bengal,0.0
+1961,24/05/2020,Andhra Pradesh,128.0
+1962,24/05/2020,Arunachal Pradesh,1.0
+1963,24/05/2020,Assam,47.0
+1964,24/05/2020,Bihar,229.0
+1965,24/05/2020,Chandigarh,38.0
+1966,24/05/2020,Chhattisgarh,38.0
+1967,24/05/2020,Delhi,811.0
+1968,24/05/2020,Goa,11.0
+1969,24/05/2020,Gujarat,666.0
+1970,24/05/2020,Haryana,68.0
+1971,24/05/2020,Himachal Pradesh,20.0
+1972,24/05/2020,Jammu and Kashmir,87.0
+1973,24/05/2020,Jharkhand,28.0
+1974,24/05/2020,Karnataka,176.0
+1975,24/05/2020,Kerala,59.0
+1976,24/05/2020,Ladakh,3.0
+1977,24/05/2020,Madhya Pradesh,444.0
+1978,24/05/2020,Maharashtra,4295.0
+1979,24/05/2020,Manipur,5.0
+1980,24/05/2020,Odisha,120.0
+1981,24/05/2020,Puducherry,17.0
+1982,24/05/2020,Punjab,44.0
+1983,24/05/2020,Rajasthan,351.0
+1984,24/05/2020,State Unassigned,439.0
+1985,24/05/2020,Tamil Nadu,1606.0
+1986,24/05/2020,Telangana,69.0
+1987,24/05/2020,Tripura,16.0
+1988,24/05/2020,Uttar Pradesh,389.0
+1989,24/05/2020,Uttarakhand,79.0
+1990,24/05/2020,West Bengal,269.0
+1991,25/03/2020,Andhra Pradesh,0.0
+1992,25/03/2020,Bihar,0.0
+1993,25/03/2020,Chhattisgarh,0.0
+1994,25/03/2020,Delhi,0.0
+1995,25/03/2020,Goa,0.0
+1996,25/03/2020,Gujarat,0.0
+1997,25/03/2020,Haryana,0.0
+1998,25/03/2020,Jammu and Kashmir,0.0
+1999,25/03/2020,Karnataka,0.0
+2000,25/03/2020,Kerala,0.0
+2001,25/03/2020,Madhya Pradesh,0.0
+2002,25/03/2020,Maharashtra,0.0
+2003,25/03/2020,Mizoram,0.0
+2004,25/03/2020,Punjab,0.0
+2005,25/03/2020,Rajasthan,0.0
+2006,25/03/2020,Tamil Nadu,0.0
+2007,25/03/2020,Telangana,0.0
+2008,25/03/2020,Uttar Pradesh,0.0
+2009,25/03/2020,Uttarakhand,0.0
+2010,25/04/2020,Andaman and Nicobar Islands,0.0
+2011,25/04/2020,Andhra Pradesh,0.0
+2012,25/04/2020,Bihar,0.0
+2013,25/04/2020,Chandigarh,0.0
+2014,25/04/2020,Chhattisgarh,0.0
+2015,25/04/2020,Delhi,0.0
+2016,25/04/2020,Gujarat,0.0
+2017,25/04/2020,Haryana,0.0
+2018,25/04/2020,Jammu and Kashmir,0.0
+2019,25/04/2020,Jharkhand,0.0
+2020,25/04/2020,Karnataka,0.0
+2021,25/04/2020,Kerala,0.0
+2022,25/04/2020,Ladakh,0.0
+2023,25/04/2020,Madhya Pradesh,0.0
+2024,25/04/2020,Maharashtra,0.0
+2025,25/04/2020,Odisha,0.0
+2026,25/04/2020,Puducherry,0.0
+2027,25/04/2020,Punjab,0.0
+2028,25/04/2020,Rajasthan,0.0
+2029,25/04/2020,Tamil Nadu,0.0
+2030,25/04/2020,Telangana,0.0
+2031,25/04/2020,Uttar Pradesh,0.0
+2032,25/04/2020,West Bengal,0.0
+2033,25/05/2020,Andhra Pradesh,157.0
+2034,25/05/2020,Assam,161.0
+2035,25/05/2020,Bihar,196.0
+2036,25/05/2020,Chandigarh,12.0
+2037,25/05/2020,Chhattisgarh,43.0
+2038,25/05/2020,Delhi,881.0
+2039,25/05/2020,Goa,4.0
+2040,25/05/2020,Gujarat,659.0
+2041,25/05/2020,Haryana,66.0
+2042,25/05/2020,Himachal Pradesh,24.0
+2043,25/05/2020,Jammu and Kashmir,49.0
+2044,25/05/2020,Jharkhand,35.0
+2045,25/05/2020,Karnataka,146.0
+2046,25/05/2020,Kerala,61.0
+2047,25/05/2020,Ladakh,1.0
+2048,25/05/2020,Madhya Pradesh,367.0
+2049,25/05/2020,Maharashtra,3682.0
+2050,25/05/2020,Manipur,4.0
+2051,25/05/2020,Meghalaya,1.0
+2052,25/05/2020,Nagaland,3.0
+2053,25/05/2020,Odisha,201.0
+2054,25/05/2020,Puducherry,13.0
+2055,25/05/2020,Punjab,36.0
+2056,25/05/2020,Rajasthan,484.0
+2057,25/05/2020,State Unassigned,304.0
+2058,25/05/2020,Tamil Nadu,1219.0
+2059,25/05/2020,Telangana,141.0
+2060,25/05/2020,Tripura,4.0
+2061,25/05/2020,Uttar Pradesh,359.0
+2062,25/05/2020,Uttarakhand,35.0
+2063,25/05/2020,West Bengal,230.0
+2064,26/03/2020,Andaman and Nicobar Islands,0.0
+2065,26/03/2020,Andhra Pradesh,0.0
+2066,26/03/2020,Bihar,0.0
+2067,26/03/2020,Chhattisgarh,0.0
+2068,26/03/2020,Delhi,0.0
+2069,26/03/2020,Gujarat,0.0
+2070,26/03/2020,Haryana,0.0
+2071,26/03/2020,Jammu and Kashmir,0.0
+2072,26/03/2020,Karnataka,0.0
+2073,26/03/2020,Kerala,0.0
+2074,26/03/2020,Madhya Pradesh,0.0
+2075,26/03/2020,Maharashtra,0.0
+2076,26/03/2020,Odisha,0.0
+2077,26/03/2020,Punjab,0.0
+2078,26/03/2020,Rajasthan,0.0
+2079,26/03/2020,Tamil Nadu,0.0
+2080,26/03/2020,Telangana,0.0
+2081,26/03/2020,Uttar Pradesh,0.0
+2082,26/03/2020,West Bengal,0.0
+2083,26/04/2020,Andhra Pradesh,0.0
+2084,26/04/2020,Bihar,0.0
+2085,26/04/2020,Chandigarh,0.0
+2086,26/04/2020,Delhi,0.0
+2087,26/04/2020,Gujarat,0.0
+2088,26/04/2020,Haryana,0.0
+2089,26/04/2020,Jammu and Kashmir,0.0
+2090,26/04/2020,Jharkhand,0.0
+2091,26/04/2020,Karnataka,0.0
+2092,26/04/2020,Kerala,0.0
+2093,26/04/2020,Madhya Pradesh,0.0
+2094,26/04/2020,Maharashtra,0.0
+2095,26/04/2020,Odisha,0.0
+2096,26/04/2020,Punjab,0.0
+2097,26/04/2020,Rajasthan,0.0
+2098,26/04/2020,Tamil Nadu,0.0
+2099,26/04/2020,Telangana,0.0
+2100,26/04/2020,Uttar Pradesh,0.0
+2101,26/04/2020,Uttarakhand,0.0
+2102,26/04/2020,West Bengal,0.0
+2103,26/05/2020,Andhra Pradesh,223.0
+2104,26/05/2020,Assam,134.0
+2105,26/05/2020,Bihar,299.0
+2106,26/05/2020,Chandigarh,12.0
+2107,26/05/2020,Chhattisgarh,80.0
+2108,26/05/2020,Delhi,607.0
+2109,26/05/2020,Goa,9.0
+2110,26/05/2020,Gujarat,889.0
+2111,26/05/2020,Haryana,114.0
+2112,26/05/2020,Himachal Pradesh,24.0
+2113,26/05/2020,Jammu and Kashmir,116.0
+2114,26/05/2020,Jharkhand,26.0
+2115,26/05/2020,Karnataka,160.0
+2116,26/05/2020,Kerala,78.0
+2117,26/05/2020,Madhya Pradesh,288.0
+2118,26/05/2020,Maharashtra,3356.0
+2119,26/05/2020,Manipur,3.0
+2120,26/05/2020,Meghalaya,5.0
+2121,26/05/2020,Nagaland,1.0
+2122,26/05/2020,Odisha,163.0
+2123,26/05/2020,Punjab,30.0
+2124,26/05/2020,Rajasthan,459.0
+2125,26/05/2020,State Unassigned,328.0
+2126,26/05/2020,Tamil Nadu,1268.0
+2127,26/05/2020,Telangana,233.0
+2128,26/05/2020,Tripura,34.0
+2129,26/05/2020,Uttar Pradesh,399.0
+2130,26/05/2020,Uttarakhand,57.0
+2131,26/05/2020,West Bengal,270.0
+2132,27/03/2020,Andaman and Nicobar Islands,0.0
+2133,27/03/2020,Andhra Pradesh,0.0
+2134,27/03/2020,Bihar,0.0
+2135,27/03/2020,Chandigarh,0.0
+2136,27/03/2020,Delhi,0.0
+2137,27/03/2020,Gujarat,0.0
+2138,27/03/2020,Haryana,0.0
+2139,27/03/2020,Jammu and Kashmir,0.0
+2140,27/03/2020,Karnataka,0.0
+2141,27/03/2020,Kerala,0.0
+2142,27/03/2020,Madhya Pradesh,0.0
+2143,27/03/2020,Maharashtra,0.0
+2144,27/03/2020,Punjab,0.0
+2145,27/03/2020,Rajasthan,0.0
+2146,27/03/2020,Tamil Nadu,0.0
+2147,27/03/2020,Telangana,0.0
+2148,27/03/2020,Uttar Pradesh,0.0
+2149,27/03/2020,West Bengal,0.0
+2150,27/04/2020,Andhra Pradesh,84.0
+2151,27/04/2020,Bihar,69.0
+2152,27/04/2020,Chandigarh,9.0
+2153,27/04/2020,Delhi,190.0
+2154,27/04/2020,Gujarat,339.0
+2155,27/04/2020,Haryana,19.0
+2156,27/04/2020,Himachal Pradesh,3.0
+2157,27/04/2020,Jammu and Kashmir,51.0
+2158,27/04/2020,Jharkhand,25.0
+2159,27/04/2020,Karnataka,22.0
+2160,27/04/2020,Kerala,26.0
+2161,27/04/2020,Madhya Pradesh,137.0
+2162,27/04/2020,Maharashtra,643.0
+2163,27/04/2020,Odisha,17.0
+2164,27/04/2020,Puducherry,1.0
+2165,27/04/2020,Punjab,23.0
+2166,27/04/2020,Rajasthan,201.0
+2167,27/04/2020,Tamil Nadu,106.0
+2168,27/04/2020,Telangana,18.0
+2169,27/04/2020,Uttar Pradesh,186.0
+2170,27/04/2020,West Bengal,38.0
+2171,27/05/2020,Andhra Pradesh,183.0
+2172,27/05/2020,Assam,126.0
+2173,27/05/2020,Bihar,187.0
+2174,27/05/2020,Chandigarh,1.0
+2175,27/05/2020,Chhattisgarh,8.0
+2176,27/05/2020,Delhi,1117.0
+2177,27/05/2020,Goa,10.0
+2178,27/05/2020,Gujarat,809.0
+2179,27/05/2020,Haryana,92.0
+2180,27/05/2020,Himachal Pradesh,31.0
+2181,27/05/2020,Jammu and Kashmir,185.0
+2182,27/05/2020,Jharkhand,7.0
+2183,27/05/2020,Karnataka,155.0
+2184,27/05/2020,Kerala,50.0
+2185,27/05/2020,Ladakh,1.0
+2186,27/05/2020,Madhya Pradesh,483.0
+2187,27/05/2020,Maharashtra,3259.0
+2188,27/05/2020,Manipur,5.0
+2189,27/05/2020,Nagaland,5.0
+2190,27/05/2020,Odisha,155.0
+2191,27/05/2020,Punjab,33.0
+2192,27/05/2020,Rajasthan,569.0
+2193,27/05/2020,State Unassigned,1043.0
+2194,27/05/2020,Tamil Nadu,1390.0
+2195,27/05/2020,Telangana,150.0
+2196,27/05/2020,Tripura,10.0
+2197,27/05/2020,Uttar Pradesh,439.0
+2198,27/05/2020,Uttarakhand,84.0
+2199,27/05/2020,West Bengal,281.0
+2200,28/03/2020,Andaman and Nicobar Islands,0.0
+2201,28/03/2020,Andhra Pradesh,0.0
+2202,28/03/2020,Bihar,0.0
+2203,28/03/2020,Chhattisgarh,0.0
+2204,28/03/2020,Delhi,0.0
+2205,28/03/2020,Gujarat,0.0
+2206,28/03/2020,Haryana,0.0
+2207,28/03/2020,Jammu and Kashmir,0.0
+2208,28/03/2020,Karnataka,0.0
+2209,28/03/2020,Kerala,0.0
+2210,28/03/2020,Madhya Pradesh,0.0
+2211,28/03/2020,Maharashtra,0.0
+2212,28/03/2020,Rajasthan,0.0
+2213,28/03/2020,Tamil Nadu,0.0
+2214,28/03/2020,Telangana,0.0
+2215,28/03/2020,Uttar Pradesh,0.0
+2216,28/03/2020,Uttarakhand,0.0
+2217,28/03/2020,West Bengal,0.0
+2218,28/04/2020,Andaman and Nicobar Islands,4.0
+2219,28/04/2020,Andhra Pradesh,105.0
+2220,28/04/2020,Assam,2.0
+2221,28/04/2020,Bihar,28.0
+2222,28/04/2020,Chandigarh,11.0
+2223,28/04/2020,Chhattisgarh,3.0
+2224,28/04/2020,Delhi,407.0
+2225,28/04/2020,Gujarat,285.0
+2226,28/04/2020,Haryana,18.0
+2227,28/04/2020,Jammu and Kashmir,32.0
+2228,28/04/2020,Jharkhand,4.0
+2229,28/04/2020,Karnataka,25.0
+2230,28/04/2020,Kerala,8.0
+2231,28/04/2020,Ladakh,2.0
+2232,28/04/2020,Madhya Pradesh,248.0
+2233,28/04/2020,Maharashtra,865.0
+2234,28/04/2020,Odisha,1.0
+2235,28/04/2020,Punjab,15.0
+2236,28/04/2020,Rajasthan,130.0
+2237,28/04/2020,Tamil Nadu,176.0
+2238,28/04/2020,Telangana,48.0
+2239,28/04/2020,Uttar Pradesh,133.0
+2240,28/04/2020,Uttarakhand,3.0
+2241,28/04/2020,West Bengal,54.0
+2242,28/05/2020,Andhra Pradesh,197.0
+2243,28/05/2020,Arunachal Pradesh,1.0
+2244,28/05/2020,Assam,113.0
+2245,28/05/2020,Bihar,281.0
+2246,28/05/2020,Chandigarh,12.0
+2247,28/05/2020,Chhattisgarh,34.0
+2248,28/05/2020,Delhi,1268.0
+2249,28/05/2020,Goa,2.0
+2250,28/05/2020,Gujarat,843.0
+2251,28/05/2020,Haryana,167.0
+2252,28/05/2020,Himachal Pradesh,15.0
+2253,28/05/2020,Jammu and Kashmir,121.0
+2254,28/05/2020,Jharkhand,6.0
+2255,28/05/2020,Karnataka,168.0
+2256,28/05/2020,Kerala,89.0
+2257,28/05/2020,Ladakh,20.0
+2258,28/05/2020,Madhya Pradesh,323.0
+2259,28/05/2020,Maharashtra,3381.0
+2260,28/05/2020,Manipur,11.0
+2261,28/05/2020,Meghalaya,1.0
+2262,28/05/2020,Nagaland,9.0
+2263,28/05/2020,Odisha,142.0
+2264,28/05/2020,Puducherry,4.0
+2265,28/05/2020,Punjab,47.0
+2266,28/05/2020,Rajasthan,511.0
+2267,28/05/2020,State Unassigned,319.0
+2268,28/05/2020,Tamil Nadu,1478.0
+2269,28/05/2020,Telangana,145.0
+2270,28/05/2020,Tripura,4.0
+2271,28/05/2020,Uttar Pradesh,418.0
+2272,28/05/2020,Uttarakhand,31.0
+2273,28/05/2020,West Bengal,440.0
+2274,29/03/2020,Andhra Pradesh,0.0
+2275,29/03/2020,Bihar,0.0
+2276,29/03/2020,Delhi,0.0
+2277,29/03/2020,Goa,0.0
+2278,29/03/2020,Gujarat,0.0
+2279,29/03/2020,Jammu and Kashmir,0.0
+2280,29/03/2020,Karnataka,0.0
+2281,29/03/2020,Kerala,0.0
+2282,29/03/2020,Maharashtra,0.0
+2283,29/03/2020,Rajasthan,0.0
+2284,29/03/2020,Tamil Nadu,0.0
+2285,29/03/2020,Telangana,0.0
+2286,29/03/2020,Uttar Pradesh,0.0
+2287,29/03/2020,Uttarakhand,0.0
+2288,29/03/2020,West Bengal,0.0
+2289,29/04/2020,Andhra Pradesh,102.0
+2290,29/04/2020,Assam,2.0
+2291,29/04/2020,Bihar,37.0
+2292,29/04/2020,Chandigarh,12.0
+2293,29/04/2020,Delhi,141.0
+2294,29/04/2020,Gujarat,417.0
+2295,29/04/2020,Haryana,4.0
+2296,29/04/2020,Jammu and Kashmir,32.0
+2297,29/04/2020,Jharkhand,2.0
+2298,29/04/2020,Karnataka,22.0
+2299,29/04/2020,Kerala,20.0
+2300,29/04/2020,Ladakh,1.0
+2301,29/04/2020,Madhya Pradesh,271.0
+2302,29/04/2020,Maharashtra,834.0
+2303,29/04/2020,Odisha,8.0
+2304,29/04/2020,Punjab,33.0
+2305,29/04/2020,Rajasthan,123.0
+2306,29/04/2020,Tamil Nadu,188.0
+2307,29/04/2020,Telangana,42.0
+2308,29/04/2020,Uttar Pradesh,134.0
+2309,29/04/2020,Uttarakhand,3.0
+2310,29/04/2020,West Bengal,38.0
+2311,29/05/2020,Andhra Pradesh,187.0
+2312,29/05/2020,Assam,199.0
+2313,29/05/2020,Bihar,333.0
+2314,29/05/2020,Chhattisgarh,35.0
+2315,29/05/2020,Delhi,1538.0
+2316,29/05/2020,Goa,3.0
+2317,29/05/2020,Gujarat,1000.0
+2318,29/05/2020,Haryana,276.0
+2319,29/05/2020,Himachal Pradesh,24.0
+2320,29/05/2020,Jammu and Kashmir,145.0
+2321,29/05/2020,Jharkhand,146.0
+2322,29/05/2020,Karnataka,309.0
+2323,29/05/2020,Kerala,73.0
+2324,29/05/2020,Madhya Pradesh,424.0
+2325,29/05/2020,Maharashtra,11179.0
+2326,29/05/2020,Manipur,6.0
+2327,29/05/2020,Meghalaya,6.0
+2328,29/05/2020,Nagaland,7.0
+2329,29/05/2020,Odisha,155.0
+2330,29/05/2020,Puducherry,10.0
+2331,29/05/2020,Punjab,44.0
+2332,29/05/2020,Rajasthan,731.0
+2333,29/05/2020,State Unassigned,341.0
+2334,29/05/2020,Tamil Nadu,1648.0
+2335,29/05/2020,Telangana,209.0
+2336,29/05/2020,Tripura,10.0
+2337,29/05/2020,Uttar Pradesh,474.0
+2338,29/05/2020,Uttarakhand,239.0
+2339,29/05/2020,West Bengal,391.0
+2340,30/01/2020,Kerala,0.0
+2341,30/03/2020,Andaman and Nicobar Islands,0.0
+2342,30/03/2020,Andhra Pradesh,0.0
+2343,30/03/2020,Chandigarh,0.0
+2344,30/03/2020,Chhattisgarh,0.0
+2345,30/03/2020,Delhi,0.0
+2346,30/03/2020,Gujarat,0.0
+2347,30/03/2020,Haryana,0.0
+2348,30/03/2020,Jammu and Kashmir,0.0
+2349,30/03/2020,Karnataka,0.0
+2350,30/03/2020,Kerala,0.0
+2351,30/03/2020,Madhya Pradesh,0.0
+2352,30/03/2020,Maharashtra,0.0
+2353,30/03/2020,Punjab,0.0
+2354,30/03/2020,Rajasthan,0.0
+2355,30/03/2020,Tamil Nadu,0.0
+2356,30/03/2020,Telangana,0.0
+2357,30/03/2020,Uttar Pradesh,0.0
+2358,30/03/2020,West Bengal,0.0
+2359,30/04/2020,Andaman and Nicobar Islands,1.0
+2360,30/04/2020,Andhra Pradesh,105.0
+2361,30/04/2020,Assam,5.0
+2362,30/04/2020,Bihar,42.0
+2363,30/04/2020,Chandigarh,7.0
+2364,30/04/2020,Chhattisgarh,4.0
+2365,30/04/2020,Delhi,81.0
+2366,30/04/2020,Gujarat,416.0
+2367,30/04/2020,Haryana,39.0
+2368,30/04/2020,Himachal Pradesh,3.0
+2369,30/04/2020,Jammu and Kashmir,57.0
+2370,30/04/2020,Jharkhand,3.0
+2371,30/04/2020,Karnataka,44.0
+2372,30/04/2020,Kerala,16.0
+2373,30/04/2020,Madhya Pradesh,93.0
+2374,30/04/2020,Maharashtra,790.0
+2375,30/04/2020,Odisha,20.0
+2376,30/04/2020,Punjab,109.0
+2377,30/04/2020,Rajasthan,226.0
+2378,30/04/2020,Tamil Nadu,209.0
+2379,30/04/2020,Telangana,58.0
+2380,30/04/2020,Tripura,1.0
+2381,30/04/2020,Uttar Pradesh,119.0
+2382,30/04/2020,Uttarakhand,10.0
+2383,30/04/2020,West Bengal,49.0
+2384,30/05/2020,Andhra Pradesh,186.0
+2385,30/05/2020,Arunachal Pradesh,1.0
+2386,30/05/2020,Assam,197.0
+2387,30/05/2020,Bihar,314.0
+2388,30/05/2020,Chandigarh,10.0
+2389,30/05/2020,Chhattisgarh,34.0
+2390,30/05/2020,Delhi,1410.0
+2391,30/05/2020,Goa,2.0
+2392,30/05/2020,Gujarat,1060.0
+2393,30/05/2020,Haryana,234.0
+2394,30/05/2020,Himachal Pradesh,42.0
+2395,30/05/2020,Jammu and Kashmir,210.0
+2396,30/05/2020,Jharkhand,113.0
+2397,30/05/2020,Karnataka,245.0
+2398,30/05/2020,Kerala,69.0
+2399,30/05/2020,Ladakh,3.0
+2400,30/05/2020,Madhya Pradesh,430.0
+2401,30/05/2020,Maharashtra,4123.0
+2402,30/05/2020,Manipur,1.0
+2403,30/05/2020,Nagaland,11.0
+2404,30/05/2020,Odisha,169.0
+2405,30/05/2020,Punjab,56.0
+2406,30/05/2020,Rajasthan,756.0
+2407,30/05/2020,State Unassigned,370.0
+2408,30/05/2020,Tamil Nadu,1631.0
+2409,30/05/2020,Telangana,111.0
+2410,30/05/2020,Tripura,22.0
+2411,30/05/2020,Uttar Pradesh,509.0
+2412,30/05/2020,Uttarakhand,34.0
+2413,30/05/2020,West Bengal,519.0
+2414,31/03/2020,Andhra Pradesh,0.0
+2415,31/03/2020,Assam,0.0
+2416,31/03/2020,Bihar,0.0
+2417,31/03/2020,Chandigarh,0.0
+2418,31/03/2020,Chhattisgarh,0.0
+2419,31/03/2020,Delhi,0.0
+2420,31/03/2020,Gujarat,0.0
+2421,31/03/2020,Haryana,0.0
+2422,31/03/2020,Jammu and Kashmir,0.0
+2423,31/03/2020,Jharkhand,0.0
+2424,31/03/2020,Karnataka,0.0
+2425,31/03/2020,Kerala,0.0
+2426,31/03/2020,Madhya Pradesh,0.0
+2427,31/03/2020,Maharashtra,0.0
+2428,31/03/2020,Odisha,0.0
+2429,31/03/2020,Punjab,0.0
+2430,31/03/2020,Rajasthan,0.0
+2431,31/03/2020,Tamil Nadu,0.0
+2432,31/03/2020,Telangana,0.0
+2433,31/03/2020,Uttar Pradesh,0.0
+2434,31/03/2020,West Bengal,0.0
+2435,31/05/2020,Andhra Pradesh,163.0
+2436,31/05/2020,Assam,145.0
+2437,31/05/2020,Bihar,453.0
+2438,31/05/2020,Chandigarh,4.0
+2439,31/05/2020,Chhattisgarh,63.0
+2440,31/05/2020,Delhi,1755.0
+2441,31/05/2020,Goa,3.0
+2442,31/05/2020,Gujarat,1158.0
+2443,31/05/2020,Haryana,245.0
+2444,31/05/2020,Himachal Pradesh,27.0
+2445,31/05/2020,Jammu and Kashmir,124.0
+2446,31/05/2020,Jharkhand,41.0
+2447,31/05/2020,Karnataka,522.0
+2448,31/05/2020,Kerala,76.0
+2449,31/05/2020,Ladakh,4.0
+2450,31/05/2020,Madhya Pradesh,603.0
+2451,31/05/2020,Maharashtra,3824.0
+2452,31/05/2020,Manipur,16.0
+2453,31/05/2020,Nagaland,7.0
+2454,31/05/2020,Odisha,205.0
+2455,31/05/2020,Puducherry,15.0
+2456,31/05/2020,Punjab,51.0
+2457,31/05/2020,Rajasthan,508.0
+2458,31/05/2020,State Unassigned,448.0
+2459,31/05/2020,Tamil Nadu,1919.0
+2460,31/05/2020,Telangana,220.0
+2461,31/05/2020,Tripura,46.0
+2462,31/05/2020,Uttar Pradesh,570.0
+2463,31/05/2020,Uttarakhand,158.0
+2464,31/05/2020,West Bengal,566.0
