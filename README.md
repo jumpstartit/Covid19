@@ -1,4 +1,4 @@
-# Covid19 Future Predictor
+# Covid19 India data Experimentation
 ```Data Source= https://api.covid19india.org/```
 
 Experimenting with H2O for Data modelling and prediction with verious ML Algorithms.
